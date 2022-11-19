@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -30,11 +29,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>80</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>80</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -192,11 +191,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SELECT HYMNS AND TUNES .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SELECT HYMNS AND TUNES .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -492,11 +491,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SAVIOR , LIKE A SHEPHERD LEAD US . AND EVERLAST-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SAVIOR , LIKE A SHEPHERD LEAD US . AND EVERLAST-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -534,11 +533,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>HOME</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>HOME</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -588,11 +587,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>E SHPS</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>E SHPS</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -732,11 +731,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Key D. 89 , 79 &amp; 49 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Key D. 89 , 79 &amp; 49 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -966,7 +965,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1 SAVIOR , like a shepherd lead us ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l8">
@@ -1176,7 +1175,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Much we need thy tenderest care ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l9">
@@ -1392,7 +1391,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>In thy pleasant pastures feed us ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l10">
@@ -1590,11 +1589,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>For our use thy folds prepare .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1 SAVIOR , like a shepherd lead us ,
+Much we need thy tenderest care ;
+In thy pleasant pastures feed us ,
+For our use thy folds prepare .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -1794,7 +1796,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blessed Jesus , blessed Jesus ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -2022,7 +2024,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Thou hast bought us , thine we are ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -2220,7 +2222,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blessed Jesus , blessed Jesus ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -2448,11 +2450,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Thou hast bought us , thine we are .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Blessed Jesus , blessed Jesus ,
+Thou hast bought us , thine we are ;
+Blessed Jesus , blessed Jesus ,
+Thou hast bought us , thine we are .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -2694,7 +2699,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 We are thine , do thou befriend us ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l16">
@@ -2874,7 +2879,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Be the Guardian of our way ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l17">
@@ -3108,7 +3113,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Keep thy flock , from sin defend us ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l18">
@@ -3282,11 +3287,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Seek us when we go astray .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 We are thine , do thou befriend us ,
+Be the Guardian of our way ;
+Keep thy flock , from sin defend us ,
+Seek us when we go astray .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -3486,7 +3494,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blessed Jesus , blessed Jesus ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l20">
@@ -3714,11 +3722,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Hear young children when they pray .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Blessed Jesus , blessed Jesus ,
+Hear young children when they pray .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -3948,7 +3957,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 Thou hast promised to receive us ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l22">
@@ -4146,7 +4155,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Poor and si iful though we be ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l23">
@@ -4350,7 +4359,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Thou hast mrercy to relieve us ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l24">
@@ -4590,7 +4599,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Grace to cleanse , and power to free .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l25">
@@ -4782,7 +4791,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blesse Jesus , blessed Jesus ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l26">
@@ -4956,11 +4965,16 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Let us early turn to thee .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 Thou hast promised to receive us ,
+Poor and si iful though we be ;
+Thou hast mrercy to relieve us ,
+Grace to cleanse , and power to free .
+Blesse Jesus , blessed Jesus ,
+Let us early turn to thee .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -5160,7 +5174,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4 Early let us seek thy favor ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l28">
@@ -5328,7 +5342,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Early let us do thy will ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l29">
@@ -5520,7 +5534,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blessed Lord and only Savior ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l30">
@@ -5718,11 +5732,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>With thy love our bosoms fill .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4 Early let us seek thy favor ,
+Early let us do thy will ;
+Blessed Lord and only Savior ,
+With thy love our bosoms fill .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -5922,7 +5939,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blessed Jesus , blessed Jesus ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l32">
@@ -6150,11 +6167,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Thou hast loved us , love us still .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Blessed Jesus , blessed Jesus ,
+Thou hast loved us , love us still .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -6324,7 +6342,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>THE SUNDAY - SCHOOL ARMY .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l34">
@@ -6372,11 +6390,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Key G.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>THE SUNDAY - SCHOOL ARMY .
+Key G.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -6564,11 +6583,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1 0 , Do not be discouraged ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1 0 , Do not be discouraged ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -6738,11 +6757,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>For Jesus is your Friend !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>For Jesus is your Friend !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -6918,11 +6937,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>O , do not be discouraged ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>O , do not be discouraged ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -7092,7 +7111,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>For Jesus is your Friend !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l39">
@@ -7314,7 +7333,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>He will give you grace to conquer ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l40">
@@ -7536,7 +7555,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>He will give you grace to conquer ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l41">
@@ -7698,11 +7717,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And keep you to the end .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>For Jesus is your Friend !
+He will give you grace to conquer ,
+He will give you grace to conquer ,
+And keep you to the end .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r19">
@@ -7764,11 +7786,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHORUS .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHORUS .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r20">
@@ -7950,7 +7972,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I am glad I'm in this army ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l44">
@@ -8160,7 +8182,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Yes , I'm glad I'm in this army ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l45">
@@ -8370,7 +8392,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Yes , I'm glad I'm in this army ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l46">
@@ -8574,11 +8596,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And I'll battle for the school .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>I am glad I'm in this army ,
+Yes , I'm glad I'm in this army ,
+Yes , I'm glad I'm in this army ,
+And I'll battle for the school .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r21">
@@ -8790,11 +8815,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 Fight on , ye little soldiers ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 Fight on , ye little soldiers ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r22">
@@ -8964,7 +8989,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The battle you shall win ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l49">
@@ -9162,11 +9187,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Fight on , ye little soldiers ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>The battle you shall win ;
+Fight on , ye little soldiers ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r23">
@@ -9336,7 +9362,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The battle you shall win ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l51">
@@ -9540,7 +9566,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>For the Savior is your Captain ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l52">
@@ -9744,7 +9770,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>For the Savior is your Captain ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l53">
@@ -9918,7 +9944,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And he has vanquished sin .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l54">
@@ -10026,11 +10052,15 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I am glad , etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>The battle you shall win ;
+For the Savior is your Captain ,
+For the Savior is your Captain ,
+And he has vanquished sin .
+I am glad , etc.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r24">
@@ -10176,11 +10206,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHRIST'S UNIVEINGDOM .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHRIST'S UNIVEINGDOM .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r25">
@@ -10212,11 +10242,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ING</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>ING</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r26">
@@ -10452,11 +10482,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>TUNE " Duke Street . " Key Eb . L. M.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>TUNE " Duke Street . " Key Eb . L. M.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r27">
@@ -10686,7 +10716,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1 JESUS shall reign where'er the sun</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l59">
@@ -10902,7 +10932,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Does his successive journeys run ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l60">
@@ -11154,7 +11184,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>His kingdom spread from shore to shore ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l61">
@@ -11400,11 +11430,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Till moons shall wax and wane no more .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1 JESUS shall reign where'er the sun
+Does his successive journeys run ;
+His kingdom spread from shore to shore ,
+Till moons shall wax and wane no more .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r28">
@@ -11610,7 +11643,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 And when the conflict's over ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l63">
@@ -11790,7 +11823,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Before him you shall stand ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l64">
@@ -11982,7 +12015,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And when the conflict's over ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l65">
@@ -12162,7 +12195,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Before him you shall stand .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l66">
@@ -12384,7 +12417,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>You shall sing his praise forever ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l67">
@@ -12606,7 +12639,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>You shall sing his praise forever ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l68">
@@ -12762,7 +12795,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>In Canaan's happy land .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l69">
@@ -12870,11 +12903,18 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I am glad , etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 And when the conflict's over ,
+Before him you shall stand ;
+And when the conflict's over ,
+Before him you shall stand .
+You shall sing his praise forever ,
+You shall sing his praise forever ,
+In Canaan's happy land .
+I am glad , etc.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r29">
@@ -13128,7 +13168,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 From north to south the princes meet ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l71">
@@ -13152,7 +13192,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>To</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l72">
@@ -13344,7 +13384,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>pay their homage at his feet ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l73">
@@ -13584,7 +13624,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>While western empires own their Lord ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l74">
@@ -13806,11 +13846,15 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And savage tribes attend his Word .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 From north to south the princes meet ,
+To
+pay their homage at his feet ;
+While western empires own their Lord ,
+And savage tribes attend his Word .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r30">
@@ -14058,7 +14102,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 To him shall endless prayer be made ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l76">
@@ -14286,7 +14330,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And endless praises crown his head ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l77">
@@ -14550,7 +14594,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>His name , like sweet perfume , shali rise</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l78">
@@ -14742,11 +14786,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>With every morning sacrifice .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 To him shall endless prayer be made ,
+And endless praises crown his head ;
+His name , like sweet perfume , shali rise
+With every morning sacrifice .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r31">
@@ -14970,7 +15017,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4 People and realms of every tongue</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l80">
@@ -15210,7 +15257,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Dwell on his love with sweetest song ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l81">
@@ -15414,7 +15461,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And infant voices shall proclaim</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l82">
@@ -15636,11 +15683,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Their early blessings on his name .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4 People and realms of every tongue
+Dwell on his love with sweetest song ,
+And infant voices shall proclaim
+Their early blessings on his name .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r32">
@@ -15744,11 +15794,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>HAPPY MEETING .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>HAPPY MEETING .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r33">
@@ -16032,11 +16082,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>TUNE " Happy Greeting to all . " Key E. 11s .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>TUNE " Happy Greeting to all . " Key E. 11s .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r34">
@@ -16356,7 +16406,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1 COME , children , and join in our festival song ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l86">
@@ -16614,7 +16664,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The weeks and the months are all speeding</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l87">
@@ -16668,11 +16718,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>along ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1 COME , children , and join in our festival song ,
+The weeks and the months are all speeding
+along ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r35">
@@ -16932,7 +16984,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>We'll join our glad voices in one hymn of</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l89">
@@ -16980,11 +17032,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>praise</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>We'll join our glad voices in one hymn of
+praise</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r36">
@@ -17232,7 +17285,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>To God , who has kept us and lengthened</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l91">
@@ -17304,11 +17357,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>our days .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>To God , who has kept us and lengthened
+our days .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r37">
@@ -17370,11 +17424,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHORUS .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHORUS .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r38">
@@ -17658,7 +17712,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Happy meeting to all ! happy meeting to all !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l94">
@@ -17922,7 +17976,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Happy meeting , happy meeting , happy meet-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l95">
@@ -18006,11 +18060,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ing to all !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Happy meeting to all ! happy meeting to all !
+Happy meeting , happy meeting , happy meet-
+ing to all !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r39">
@@ -18282,7 +18338,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 Our Father in heaven , we lift up to thee</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l97">
@@ -18570,7 +18626,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Our voice of thanksgiving , our glad jubilee ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l98">
@@ -18852,7 +18908,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Oh , bless us and guide us , dear Savior , we</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l99">
@@ -18900,11 +18956,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>pray ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 Our Father in heaven , we lift up to thee
+Our voice of thanksgiving , our glad jubilee ;
+Oh , bless us and guide us , dear Savior , we
+pray ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r40">
@@ -19164,7 +19223,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>That from thy blest precepts we never may</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l101">
@@ -19218,11 +19277,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>stray .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>That from thy blest precepts we never may
+stray .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r41">
@@ -19398,11 +19458,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Happy meeting to all , etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Happy meeting to all , etc.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r42">
@@ -19698,7 +19758,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 And if , ere this year has drawn to a close ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l104">
@@ -19938,7 +19998,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Some loved one among us in death shall</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l105">
@@ -19998,11 +20058,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>repose ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 And if , ere this year has drawn to a close ,
+Some loved one among us in death shall
+repose ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r43">
@@ -20286,7 +20348,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Grant , Lord , that the spirit in heaven pray</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l107">
@@ -20340,11 +20402,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>dwell ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Grant , Lord , that the spirit in heaven pray
+dwell ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r44">
@@ -20610,7 +20673,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>In the bosom of Jesus , where all shall be</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l109">
@@ -20658,11 +20721,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>well .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>In the bosom of Jesus , where all shall be
+well .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r45">
@@ -20838,11 +20902,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Happy meeting to all , etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Happy meeting to all , etc.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r46">
@@ -21126,7 +21190,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4 Kind teachers , we children would thank yca</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l112">
@@ -21198,11 +21262,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>this day ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4 Kind teachers , we children would thank yca
+this day ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r47">
@@ -21498,7 +21563,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>That faithfully , kindly , you've taught us the</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l114">
@@ -21528,11 +21593,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>way</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>That faithfully , kindly , you've taught us the
+way</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r48">
@@ -21792,7 +21858,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>How we may escape from the world's sinful</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l116">
@@ -21852,11 +21918,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>charms ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>How we may escape from the world's sinful
+charms ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r49">
@@ -22134,11 +22201,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And find a safe refuge in our Savior's loved</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>And find a safe refuge in our Savior's loved</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r50">
@@ -22188,11 +22255,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>arms .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>arms .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r51">
@@ -22368,11 +22435,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Happy meeting to all , etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Happy meeting to all , etc.</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

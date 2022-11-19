@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -42,7 +41,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1893</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l2">
@@ -90,11 +89,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Life A</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1893
+Life A</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -144,11 +144,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1₂2128</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1₂2128</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -186,7 +186,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>F645</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l5">
@@ -228,11 +228,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>( S )</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>F645
+( S )</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -300,11 +301,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>PREFACE .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>PREFACE .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -576,11 +577,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>BELIEVING Song to be one of God's appointed</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>BELIEVING Song to be one of God's appointed</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -894,11 +895,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ways of spreading the gospel , we send this little</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>ways of spreading the gospel , we send this little</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -1086,11 +1087,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>messenger forth in His name .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>messenger forth in His name .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -1290,7 +1291,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>" I am the light of the world :</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l11">
@@ -1482,7 +1483,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>he that followeth me shall not</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -1692,7 +1693,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>walk in darkness , but shall have</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -1938,11 +1939,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>the Light of Life . " - JOHN VII : 12 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>" I am the light of the world :
+he that followeth me shall not
+walk in darkness , but shall have
+the Light of Life . " - JOHN VII : 12 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -2046,7 +2050,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>EDW . S. FOGG .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l15">
@@ -2142,11 +2146,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>T. W. BARKER .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>EDW . S. FOGG .
+T. W. BARKER .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -2256,7 +2261,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>EMORY UNIVERSITY</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l17">
@@ -2364,11 +2369,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>THEOLOGY LIBRARY</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>EMORY UNIVERSITY
+THEOLOGY LIBRARY</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

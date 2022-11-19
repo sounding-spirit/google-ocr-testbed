@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -36,11 +35,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>6 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>6 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -96,11 +95,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>AHOYROH</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>AHOYROH</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -120,11 +119,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -144,11 +143,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -168,11 +167,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>6</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>6</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -192,11 +191,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -294,11 +293,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ANVERN , L. M.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>ANVERN , L. M.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -324,11 +323,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>FR</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>FR</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -402,11 +401,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SELECTIONS</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SELECTIONS</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -432,11 +431,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>AM</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>AM</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -666,7 +665,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I once was lost , but now am found ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -840,11 +839,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Was blind , but now I see .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>I once was lost , but now am found ,
+Was blind , but now I see .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -888,11 +888,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>C. M.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>C. M.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -1128,7 +1128,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Pres . 163 ; Meth . 654 ; Bap . 543 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l15">
@@ -1434,11 +1434,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Arlington , 50 ; Ortonville , 86 ; Balerma , 55 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Pres . 163 ; Meth . 654 ; Bap . 543 .
+Arlington , 50 ; Ortonville , 86 ; Balerma , 55 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -1668,7 +1669,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>MAZING grace ! how sweet the sound ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l17">
@@ -1854,11 +1855,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>That saved a wretch like me !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>MAZING grace ! how sweet the sound ,
+That saved a wretch like me !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -1878,11 +1880,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -2166,7 +2168,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 ' Twas grace that taught my heart to fear ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l20">
@@ -2352,7 +2354,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And grace my fears relieved ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l21">
@@ -2568,7 +2570,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>How precious did that grace appear</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l22">
@@ -2742,11 +2744,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The hour I first believed !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 ' Twas grace that taught my heart to fear ,
+And grace my fears relieved ;
+How precious did that grace appear
+The hour I first believed !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -3006,7 +3011,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 Through many dangers , toils and snares</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l24">
@@ -3144,11 +3149,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I have already come ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 Through many dangers , toils and snares
+I have already come ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -3414,7 +3420,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>' Tis grace has brought me safe thus far ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l26">
@@ -3600,11 +3606,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And grace will lead me home .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>' Tis grace has brought me safe thus far ,
+And grace will lead me home .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r19">
@@ -3630,11 +3637,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Gd</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Gd</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r20">
@@ -3864,7 +3871,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4 The Lord has promised good to me ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l29">
@@ -4032,7 +4039,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>His word my hope secures ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l30">
@@ -4236,7 +4243,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>He will my shield and portion be</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l31">
@@ -4398,11 +4405,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>As long as life endures .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4 The Lord has promised good to me ,
+His word my hope secures ;
+He will my shield and portion be
+As long as life endures .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r21">
@@ -4464,11 +4474,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>GERMAN .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>GERMAN .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r22">
@@ -4746,7 +4756,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>5 And when this flesh and heart shall fail ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l34">
@@ -4932,11 +4942,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And mortal life shall cease ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>5 And when this flesh and heart shall fail ,
+And mortal life shall cease ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r23">
@@ -5160,7 +5171,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I shall possess , within the veil ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l36">
@@ -5322,11 +5333,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>A life of joy and peace .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>I shall possess , within the veil ,
+A life of joy and peace .</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

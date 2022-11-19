@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -66,7 +65,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Ob - 2-8</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l2">
@@ -96,11 +95,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>&lt; 8-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Ob - 2-8
+&lt; 8-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -120,7 +120,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>b</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l4">
@@ -150,11 +150,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>5-6-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>b
+5-6-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -186,11 +187,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -282,11 +283,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>DUQUE . M. L.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>DUQUE . M. L.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -324,11 +325,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>TE 2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>TE 2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -348,11 +349,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -372,11 +373,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>E</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>E</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -570,11 +571,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Alabanza y accion de gracias .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Alabanza y accion de gracias .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -750,7 +751,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1 Cantad alegres al Señor ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -936,7 +937,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Mortales todos por do quier ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -1110,7 +1111,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Servidle siempre con amor ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -1260,11 +1261,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Obedecedle con placer .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1 Cantad alegres al Señor ,
+Mortales todos por do quier ;
+Servidle siempre con amor ,
+Obedecedle con placer .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -1446,7 +1450,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 Con gratitud cancion alzad</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l16">
@@ -1638,11 +1642,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Al Creador que el sér os dió ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 Con gratitud cancion alzad
+Al Creador que el sér os dió ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -1806,7 +1811,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>El Nombre augusto venerad</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l18">
@@ -1998,11 +2003,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>De El que cual Padre nos amó .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>El Nombre augusto venerad
+De El que cual Padre nos amó .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -2178,7 +2184,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 Su pueblo somos : salvará</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l20">
@@ -2334,7 +2340,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>A sus ovejas el Pastor ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l21">
@@ -2502,7 +2508,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Ninguna de ellas faltará ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l22">
@@ -2676,11 +2682,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Si fueren fieles al Señor .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 Su pueblo somos : salvará
+A sus ovejas el Pastor ;
+Ninguna de ellas faltará ,
+Si fueren fieles al Señor .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -2700,11 +2709,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -2724,11 +2733,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>J</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>J</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -2904,7 +2913,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4 De su promesa el alto don</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l26">
@@ -3102,7 +3111,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Pío nos dió , y sabrá cumplir ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l27">
@@ -3276,7 +3285,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Si á nuestra vez el corazon</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l28">
@@ -3468,7 +3477,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Le damos puro hasta el morir .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l29">
@@ -3534,11 +3543,15 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Copiado .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4 De su promesa el alto don
+Pío nos dió , y sabrá cumplir ,
+Si á nuestra vez el corazon
+Le damos puro hasta el morir .
+Copiado .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -3630,11 +3643,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>JOHN HATTON .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>JOHN HATTON .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -3660,11 +3673,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>JI</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>JI</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -3696,11 +3709,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>£ 8</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>£ 8</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

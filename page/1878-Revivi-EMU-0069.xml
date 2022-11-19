@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -114,11 +113,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>REVIVING HYMNS .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>REVIVING HYMNS .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -330,11 +329,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>5 Pass me not , O mighty Spirit !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>5 Pass me not , O mighty Spirit !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -540,7 +539,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Thou canst make the blind to see</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l4">
@@ -720,11 +719,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Witnesser of Jesus ' merit ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Thou canst make the blind to see
+Witnesser of Jesus ' merit ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -960,11 +960,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Come , oh come , and dwell in me . ||</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Come , oh come , and dwell in me . ||</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -990,11 +990,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>60</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>60</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -1092,11 +1092,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>MERCY'S FREE .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>MERCY'S FREE .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -1272,11 +1272,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>TUNE- " Eehold the Lamb . "</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>TUNE- " Eehold the Lamb . "</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -1506,7 +1506,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1 By faith I view my Saviour dying ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l10">
@@ -1680,7 +1680,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>On the tree , on the tree ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l11">
@@ -1872,7 +1872,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>To every sinner He is crying ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -2034,7 +2034,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Look to Me , look to Me ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -2250,7 +2250,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>He bids the guilty now draw near ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -2490,7 +2490,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Repent , believe , dismiss your fear :</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l15">
@@ -2754,7 +2754,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Hark ! hark ! what precious words I hear ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l16">
@@ -2940,11 +2940,18 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Mercy's free ! Mercy's free !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1 By faith I view my Saviour dying ,
+On the tree , on the tree ;
+To every sinner He is crying ,
+Look to Me , look to Me ;
+He bids the guilty now draw near ,
+Repent , believe , dismiss your fear :
+Hark ! hark ! what precious words I hear ,
+Mercy's free ! Mercy's free !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -3198,7 +3205,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 Did Christ , when I was sin pursuing ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l18">
@@ -3324,11 +3331,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Pity me , Pity me ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 Did Christ , when I was sin pursuing ,
+Pity me , Pity me ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -3564,7 +3572,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And did He snatch my soul from ruin ?</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l20">
@@ -3714,11 +3722,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Can it be ? Can it be ?</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>And did He snatch my soul from ruin ?
+Can it be ? Can it be ?</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -3942,11 +3951,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Oh , yes ! He did salvation bring ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Oh , yes ! He did salvation bring ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -4188,7 +4197,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>He is my Prophet , Priest , and King ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l23">
@@ -4392,7 +4401,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And now my happy soul can sing ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l24">
@@ -4578,11 +4587,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Mercy's free ! Mercy's free !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>He is my Prophet , Priest , and King ;
+And now my happy soul can sing ,
+Mercy's free ! Mercy's free !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -4812,7 +4823,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 Jesus , the mighty God hath spoken</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l26">
@@ -4986,11 +4997,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Peace to me , peace to me ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 Jesus , the mighty God hath spoken
+Peace to me , peace to me ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -5226,7 +5238,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Now all my chains of sin are broken ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l28">
@@ -5376,7 +5388,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I am free , I am free .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l29">
@@ -5580,11 +5592,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Soon as I in His name believed ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Now all my chains of sin are broken ,
+I am free , I am free .
+Soon as I in His name believed ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -5658,11 +5672,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>P. J. 67 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>P. J. 67 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -5844,11 +5858,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The Holy Spirit I received ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>The Holy Spirit I received ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -6108,7 +6122,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And Christ from death my soul reprieved ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l33">
@@ -6294,11 +6308,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Mercy's free ! Mercy's free !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>And Christ from death my soul reprieved ;
+Mercy's free ! Mercy's free !</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -6510,11 +6525,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4 Jesus my weary soul refreshes ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4 Jesus my weary soul refreshes ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r19">
@@ -6702,7 +6717,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Mercy's free ! Mercy's free !</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l36">
@@ -6924,7 +6939,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And every moment Christ is precious</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l37">
@@ -7050,11 +7065,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Unto me , Unto me ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Mercy's free ! Mercy's free !
+And every moment Christ is precious
+Unto me , Unto me ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r20">
@@ -7104,11 +7121,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>( 65 )</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>( 65 )</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

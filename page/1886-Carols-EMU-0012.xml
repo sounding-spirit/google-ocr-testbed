@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -24,11 +23,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>8</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>8</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -180,11 +179,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Elementary Department .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Elementary Department .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -276,11 +275,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHAPTER XII .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHAPTER XII .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -402,11 +401,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>MELODIOS . Clefs .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>MELODIOS . Clefs .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -876,7 +875,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>79. The notation of a piece of music should be kept as much as possible with-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l6">
@@ -1428,7 +1427,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>in the long lines and spaces of the staff . Ladies ' voices are higher than men's voices ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l7">
@@ -1950,7 +1949,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>and in order to represent the pitches these two classes of voices sing , the staff is</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l8">
@@ -2442,11 +2441,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>made to represent pitches in two ways . When it is wanted to represent the pitch-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>79. The notation of a piece of music should be kept as much as possible with-
+in the long lines and spaces of the staff . Ladies ' voices are higher than men's voices ,
+and in order to represent the pitches these two classes of voices sing , the staff is
+made to represent pitches in two ways . When it is wanted to represent the pitch-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -2688,7 +2690,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>es that ladies sing , this character ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l10">
@@ -2946,7 +2948,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>called the TREBLE CLEF , is put upon it .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l11">
@@ -3396,7 +3398,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The staff then represents pitches as follows : The first added line below</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -3906,7 +3908,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>stands for the pitch C ; the first space ( space below ) stands for pitch D ; first</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -4428,7 +4430,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>line E ; second space F ; second line G ; third space A ; third line B ; fourth space</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -4962,7 +4964,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>C ; fourth line D ; fifth space E ; fifth line F ; sixth space G. If we go higher , the</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l15">
@@ -5472,7 +5474,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>pitches represented in regular order are , A , B , C , D , etc. The added lines and</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l16">
@@ -5994,7 +5996,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>spaces below represent pitches as follows , beginning with first added line : C , B ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l17">
@@ -6084,11 +6086,19 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>A , G ,. etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>es that ladies sing , this character ,
+called the TREBLE CLEF , is put upon it .
+The staff then represents pitches as follows : The first added line below
+stands for the pitch C ; the first space ( space below ) stands for pitch D ; first
+line E ; second space F ; second line G ; third space A ; third line B ; fourth space
+C ; fourth line D ; fifth space E ; fifth line F ; sixth space G. If we go higher , the
+pitches represented in regular order are , A , B , C , D , etc. The added lines and
+spaces below represent pitches as follows , beginning with first added line : C , B ,
+A , G ,. etc.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -6576,7 +6586,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>80. When the staff is wanted to represent the pitches that men sing , this char-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l19">
@@ -7074,11 +7084,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>acter , called the BASE CLEF , is put upon it . The staff then represents pitches</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>80. When the staff is wanted to represent the pitches that men sing , this char-
+acter , called the BASE CLEF , is put upon it . The staff then represents pitches</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -7644,7 +7655,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>in the following order , beginning with the first line : G , A , B , C , D , E , F , G , A ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l21">
@@ -7734,11 +7745,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>B , C ,. etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>in the following order , beginning with the first line : G , A , B , C , D , E , F , G , A ,
+B , C ,. etc.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -8238,7 +8250,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>81. The first added line below when the treble clef is used , and the first added</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l23">
@@ -8742,7 +8754,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>above when the base clef is used , represent the same pitch C , and are the centre</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l24">
@@ -9246,11 +9258,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>and junctional point of the two staves . The pitch they jointly represent is about</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>81. The first added line below when the treble clef is used , and the first added
+above when the base clef is used , represent the same pitch C , and are the centre
+and junctional point of the two staves . The pitch they jointly represent is about</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -9726,7 +9740,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>midway the male and female voices , and is called MIDDLE C. See the following</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l26">
@@ -9792,11 +9806,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>EXAMPLE .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>midway the male and female voices , and is called MIDDLE C. See the following
+EXAMPLE .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -9816,11 +9831,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>F</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>F</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -9840,11 +9855,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>勝</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>勝</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -9864,11 +9879,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>9</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>9</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -9966,11 +9981,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHAPTER XIII .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHAPTER XIII .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -10044,11 +10059,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>MELODICS .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>MELODICS .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -10158,11 +10173,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Keys - Key of C.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Keys - Key of C.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -10644,7 +10659,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>82. Every scale and tune is within some key . One of every scale is called the</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l34">
@@ -11178,7 +11193,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>key - tone , and the pitch taken for the key - tone gives name to the key . Thus , if C</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l35">
@@ -11730,7 +11745,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>be one , the scale or tune is in the key of C ; if D be one , it is in the key of D ; etc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l36">
@@ -12210,7 +12225,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>83. Musical instruction usually begins with the key of C. The staff is made to</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l37">
@@ -12642,11 +12657,15 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>represent the key of C by having none of its degrees modified ; thus ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>82. Every scale and tune is within some key . One of every scale is called the
+key - tone , and the pitch taken for the key - tone gives name to the key . Thus , if C
+be one , the scale or tune is in the key of C ; if D be one , it is in the key of D ; etc.
+83. Musical instruction usually begins with the key of C. The staff is made to
+represent the key of C by having none of its degrees modified ; thus ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -12816,11 +12835,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SCALE OF C , Treble Clef .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SCALE OF C , Treble Clef .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r19">
@@ -12978,11 +12997,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SCALE OF C , Base Clef .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SCALE OF C , Base Clef .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r20">
@@ -13002,11 +13021,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>9</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>9</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r21">
@@ -13254,11 +13273,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Do , Re , Mi , Fa , Sol , La , Si , Do.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Do , Re , Mi , Fa , Sol , La , Si , Do.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r22">
@@ -13506,7 +13525,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Do , Re , Mi , Fa , Sol , La , Si , Do.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l43">
@@ -13986,7 +14005,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>84. To make the staff represent other keys than C , one or more of its degrees</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l44">
@@ -14106,11 +14125,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>must be modified .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Do , Re , Mi , Fa , Sol , La , Si , Do.
+84. To make the staff represent other keys than C , one or more of its degrees
+must be modified .</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

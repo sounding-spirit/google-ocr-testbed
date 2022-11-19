@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -42,11 +41,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>THEI</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>THEI</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -144,11 +143,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>GOLDEN CROWN .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>GOLDEN CROWN .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -342,11 +341,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>A NEW AND CHOICE COLLECTION OF</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>A NEW AND CHOICE COLLECTION OF</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -462,11 +461,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>HYMNS AND TUNES .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>HYMNS AND TUNES .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -642,11 +641,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ORIGINAL AND SELECTED , FOR</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>ORIGINAL AND SELECTED , FOR</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -882,11 +881,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SABBATH SCHOOLS AND THE HOME CIRCLE .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SABBATH SCHOOLS AND THE HOME CIRCLE .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -1008,11 +1007,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>By H. T. MERRILL .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>By H. T. MERRILL .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -1344,11 +1343,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>" O sing unto the Lord a new song . " - Ps . 96 : 1 .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>" O sing unto the Lord a new song . " - Ps . 96 : 1 .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -1368,11 +1367,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>9</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>9</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -1458,11 +1457,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CINCINNATI :</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CINCINNATI :</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -1674,7 +1673,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>PUBLISHED BY JOHN CHURCH &amp; CO . ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -1824,11 +1823,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>66 WEST FOURTH STREET .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>PUBLISHED BY JOHN CHURCH &amp; CO . ,
+66 WEST FOURTH STREET .</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

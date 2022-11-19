@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -66,11 +65,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>W. A. O.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>W. A. O.</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -90,11 +89,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>f</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>f</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -114,11 +113,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -156,11 +155,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>56-4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>56-4</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -186,11 +185,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>PR</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>PR</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -210,7 +209,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l7">
@@ -234,11 +233,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4
+-4</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -264,11 +264,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>22</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>22</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -288,11 +288,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>R</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>R</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -318,11 +318,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-D</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-D</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -366,11 +366,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1. We</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1. We</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -792,7 +792,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>our vows to God have spo - ken ; By the pledge our faith is sealed ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -1194,7 +1194,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2. We are His by sign and fa- vor ; We are His by word of might ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -1614,11 +1614,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3. Help us , O our heavenly Fa ther , Now to keep our vows to Thee ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>our vows to God have spo - ken ; By the pledge our faith is sealed ,
+2. We are His by sign and fa- vor ; We are His by word of might ,
+3. Help us , O our heavenly Fa ther , Now to keep our vows to Thee ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -1704,7 +1706,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Un to Christ</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l16">
@@ -1800,11 +1802,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And ' twill be</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Un to Christ
+And ' twill be</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -1866,11 +1869,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHORUS .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHORUS .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -1986,11 +1989,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHRIST OUR HOPE .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHRIST OUR HOPE .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -2328,7 +2331,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>our lives are given , And to Him our pow'rs we yield .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l20">
@@ -2604,7 +2607,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>en- deavor E'er to stand for God and right .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l21">
@@ -2982,11 +2985,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>And in conflict may we ev er True and faithful foll'wers be .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>our lives are given , And to Him our pow'rs we yield .
+en- deavor E'er to stand for God and right .
+And in conflict may we ev er True and faithful foll'wers be .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -3048,11 +3053,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>one sole</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>one sole</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -3072,11 +3077,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -3108,11 +3113,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>554</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>554</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r19">
@@ -3132,11 +3137,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>:</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>:</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r20">
@@ -3228,11 +3233,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>W. A. OGDEN .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>W. A. OGDEN .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r21">
@@ -3252,11 +3257,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r22">
@@ -3726,11 +3731,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Blessed is the con - so - la- tion , Christ the hope of our sal- va - tion ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Blessed is the con - so - la- tion , Christ the hope of our sal- va - tion ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r23">
@@ -3756,11 +3761,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>54</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>54</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r24">
@@ -4170,11 +4175,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Reign- eth King o'er ev'ry na- tion ! And to Him our vows we pay .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Reign- eth King o'er ev'ry na- tion ! And to Him our vows we pay .</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

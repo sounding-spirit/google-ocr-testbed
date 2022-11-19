@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -42,7 +41,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1885</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l2">
@@ -78,11 +77,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Gold</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1885
+Gold</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -120,11 +120,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SchB</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SchB</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -210,11 +210,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>SALUTATORY .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>SALUTATORY .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -570,7 +570,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>IN the accompanying work the Author has sought to embrace</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l6">
@@ -984,7 +984,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>in a convenient shape , a varied collection of orignal Sacred Songs</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l7">
@@ -1416,7 +1416,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>and Hymns , which will supply to Sabbath - schools , Praise Meetings ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l8">
@@ -1812,7 +1812,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>and Home Circles popular selections , from which everything inap-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l9">
@@ -2220,7 +2220,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>propriate to special and general uses has been eliminated , and in</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l10">
@@ -2652,11 +2652,16 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>which the music will be found in closest sympathy with the sentiment .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>IN the accompanying work the Author has sought to embrace
+in a convenient shape , a varied collection of orignal Sacred Songs
+and Hymns , which will supply to Sabbath - schools , Praise Meetings ,
+and Home Circles popular selections , from which everything inap-
+propriate to special and general uses has been eliminated , and in
+which the music will be found in closest sympathy with the sentiment .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -3030,7 +3035,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>THE GOLDEN SHEAF , No. 1 , will be followed by other numbers</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l12">
@@ -3462,7 +3467,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>of uniform size and shape , and at the same popular price , which will</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l13">
@@ -3864,7 +3869,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>enable those using them to renew and obtain fresh Songs and Hymns</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -3930,7 +3935,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>at proper</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l15">
@@ -4008,11 +4013,15 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>intervals .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>THE GOLDEN SHEAF , No. 1 , will be followed by other numbers
+of uniform size and shape , and at the same popular price , which will
+enable those using them to renew and obtain fresh Songs and Hymns
+at proper
+intervals .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -4398,7 +4407,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>THE GOLDEN SHEAF , No. 1 , can be had at $ 12.00 per ( 100 ) ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l17">
@@ -4824,7 +4833,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>or , 15 cents a single copy , bound in board covers ; or , $ 9.00 per</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l18">
@@ -5262,7 +5271,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>( 100 ) ; or , 10 cents a single copy , bound in paper covers , upon ap-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l19">
@@ -5442,11 +5451,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>plication to the publisher .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>THE GOLDEN SHEAF , No. 1 , can be had at $ 12.00 per ( 100 ) ;
+or , 15 cents a single copy , bound in board covers ; or , $ 9.00 per
+( 100 ) ; or , 10 cents a single copy , bound in paper covers , upon ap-
+plication to the publisher .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -5562,7 +5574,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>O. W. SCHAEFFER ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l21">
@@ -5670,11 +5682,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Romney , W. Va .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>O. W. SCHAEFFER ,
+Romney , W. Va .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -6114,7 +6127,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>This work having been copyrighted , no selection contained in it can be</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l23">
@@ -6444,11 +6457,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>published without the written consent of the Author .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>This work having been copyrighted , no selection contained in it can be
+published without the written consent of the Author .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -6606,7 +6620,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>J. M. ARMSTRONG &amp; CO . ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l25">
@@ -6738,7 +6752,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>MUSIC TYPOGRAPHERS ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l26">
@@ -6864,11 +6878,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Philadelphia , Pa .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>J. M. ARMSTRONG &amp; CO . ,
+MUSIC TYPOGRAPHERS ,
+Philadelphia , Pa .</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>

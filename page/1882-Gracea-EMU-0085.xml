@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator/>
     <Created>1970-01-01T01:00:00</Created>
@@ -30,7 +29,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>be</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l2">
@@ -48,7 +47,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>a-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l3">
@@ -78,11 +77,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ous</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>be
+a-
+ous</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r2">
@@ -120,7 +121,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>fe's</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l5">
@@ -144,7 +145,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CO</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l6">
@@ -180,11 +181,13 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>mall</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>fe's
+CO
+mall</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r3">
@@ -288,11 +291,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>R. G. STAPLES .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>R. G. STAPLES .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r4">
@@ -324,11 +327,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Cat</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Cat</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r5">
@@ -372,11 +375,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>9 : 1</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>9 : 1</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r6">
@@ -414,11 +417,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>9:12</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>9:12</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r7">
@@ -450,11 +453,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>9 :</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>9 :</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r8">
@@ -474,11 +477,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>6</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>6</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r9">
@@ -498,7 +501,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l14">
@@ -516,11 +519,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4
+4</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r10">
@@ -696,11 +700,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>No. 75. THE RIFTED ROCK . *</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>No. 75. THE RIFTED ROCK . *</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r11">
@@ -720,7 +724,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l17">
@@ -738,11 +742,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>4</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>4
+4</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r12">
@@ -762,11 +767,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>*</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>*</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r13">
@@ -786,11 +791,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>1</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>1</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r14">
@@ -1032,11 +1037,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>No oth - er ref- uge , Lord , have I ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>No oth - er ref- uge , Lord , have I ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r15">
@@ -1164,7 +1169,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Who can I trust but</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l22">
@@ -1302,11 +1307,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Storms in wild fu- ry</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Who can I trust but
+Storms in wild fu- ry</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r16">
@@ -1584,11 +1590,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2 Tho ' clouds ob - scure and dark the way ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2 Tho ' clouds ob - scure and dark the way ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r17">
@@ -2040,11 +2046,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>3 Come , stormy wind , come , tem - pest shock , Roll , bil - lows of the</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>3 Come , stormy wind , come , tem - pest shock , Roll , bil - lows of the</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r18">
@@ -2064,11 +2070,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>*</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>*</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r19">
@@ -2094,11 +2100,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-a</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-a</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r20">
@@ -2118,11 +2124,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>O</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>O</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r21">
@@ -2166,11 +2172,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>[ X ]</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>[ X ]</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r22">
@@ -2424,7 +2430,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>on the Rock That has been cleft for me .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l30">
@@ -2670,7 +2676,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>rest se- cure Till thou the storms as -</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l31">
@@ -2724,7 +2730,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>suage .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l32">
@@ -2976,11 +2982,14 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>in the Rock That has been cleft for me .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>on the Rock That has been cleft for me .
+rest se- cure Till thou the storms as -
+suage .
+in the Rock That has been cleft for me .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r23">
@@ -3006,11 +3015,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-0</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-0</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r24">
@@ -3072,11 +3081,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>CHORUS .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>CHORUS .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r25">
@@ -3108,11 +3117,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>196</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>196</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r26">
@@ -3138,11 +3147,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Ke</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Ke</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r27">
@@ -3180,11 +3189,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>24 a</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>24 a</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r28">
@@ -3246,11 +3255,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The rift</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>The rift</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r29">
@@ -3276,11 +3285,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>AF</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>AF</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r30">
@@ -3330,7 +3339,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>thee ?</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l41">
@@ -3378,11 +3387,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>rage ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>thee ?
+rage ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r31">
@@ -3426,11 +3436,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>sea ;</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>sea ;</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r32">
@@ -3450,11 +3460,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r33">
@@ -3588,11 +3598,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>The rift - ed Rock ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>The rift - ed Rock ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r34">
@@ -3618,11 +3628,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ed</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>ed</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r35">
@@ -3642,11 +3652,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r36">
@@ -3666,11 +3676,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r37">
@@ -3690,11 +3700,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>●</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>●</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r38">
@@ -3720,11 +3730,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>24</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>24</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r39">
@@ -3756,11 +3766,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>196</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>196</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r40">
@@ -3780,11 +3790,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>*</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>*</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r41">
@@ -4134,11 +4144,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>* From " FOUNT OF BLESSING " by per . of R. G. STAPLES .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>* From " FOUNT OF BLESSING " by per . of R. G. STAPLES .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r42">
@@ -4158,11 +4168,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>2</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>2</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r43">
@@ -4194,11 +4204,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Opt</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Opt</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r44">
@@ -4302,11 +4312,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Rock , the rift</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Rock , the rift</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r45">
@@ -4398,11 +4408,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>W. F. HEATH .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>W. F. HEATH .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r46">
@@ -4530,7 +4540,7 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Oh , fix my hope up-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="l58">
@@ -4662,11 +4672,12 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>Safe from a - larm ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>Oh , fix my hope up-
+Safe from a - larm ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r47">
@@ -4794,11 +4805,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>I am se - cure with-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>I am se - cure with-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r48">
@@ -4962,11 +4973,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>the rift - ed Rock , Oh ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>the rift - ed Rock , Oh ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r49">
@@ -5064,11 +5075,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>ed Rock , Oh ,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>ed Rock , Oh ,</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r50">
@@ -5670,11 +5681,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>may it shel- ter me ( shelter me ) ; My hope is on the rift - ed Rock That has been cleft for me .</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>may it shel- ter me ( shelter me ) ; My hope is on the rift - ed Rock That has been cleft for me .</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r51">
@@ -5700,11 +5711,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>81</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>81</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r52">
@@ -5724,11 +5735,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>-</Unicode>
       </TextEquiv>
     </TextRegion>
     <TextRegion id="r53">
@@ -5760,11 +5771,11 @@
           </TextEquiv>
         </Word>
         <TextEquiv>
-          <Unicode/>
+          <Unicode>- #</Unicode>
         </TextEquiv>
       </TextLine>
       <TextEquiv>
-        <Unicode/>
+        <Unicode>- #</Unicode>
       </TextEquiv>
     </TextRegion>
   </Page>
