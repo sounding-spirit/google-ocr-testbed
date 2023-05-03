@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.50.0</pc:Creator>
+        <pc:Created>2023-05-03T15:38:38.508748</pc:Created>
+        <pc:LastChange>2023-05-03T15:38:38.508748</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="google-ocr-testbed/images/1893-Hearts-EMU-0114.jpg" imageWidth="2856" imageHeight="2196">
+        <pc:TextRegion id="region-c9a77f44-3383-4a14-aea3-c89169068d5b">
+            <pc:Coords points="74,69 2785,84 2784,2121 77,2125"/>
+            <pc:TextLine id="line-0602c84b-5f80-4d09-89c0-2a2198e8d788">
+                <pc:Coords points="293,179 404,180 404,232 293,232"/>
+                <pc:Word id="word-aaea3561-62b5-4f78-b46f-3b0f604b3cb8">
+                    <pc:Coords points="293,179 404,180 404,232 293,232"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>110</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>110</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-bfed6fee-bf19-4338-8a23-d1d3a45bf2a4">
+                <pc:Coords points="1134,177 1760,180 1760,249 1134,246"/>
+                <pc:Word id="word-60cff47c-23ae-4b99-b72b-e4d5d83ace0e">
+                    <pc:Coords points="1134,178 1280,179 1280,246 1134,246"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c56f8032-1a29-42f8-b1f7-a89ec1779388">
+                    <pc:Coords points="1312,179 1415,180 1415,235 1312,234"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7757ddec-561c-4041-a9fb-99a03a8a3439">
+                    <pc:Coords points="1451,178 1760,180 1760,246 1451,245"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Joy-Bells.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the Joy-Bells.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-ba717689-58c1-43e8-8070-cd6140db42b8">
+                <pc:Coords points="392,244 715,245 715,275 392,274"/>
+                <pc:Word id="word-7ab52bca-b3ae-4b31-a7f8-9d6f1d090937">
+                    <pc:Coords points="392,244 429,244 429,274 392,274"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>E.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c7e69167-49f0-46c6-8257-47e36da8ca9a">
+                    <pc:Coords points="448,244 491,244 491,273 448,273"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>N.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-30776b79-65c9-4f73-95f0-52e49bf5e438">
+                    <pc:Coords points="509,244 715,245 715,275 509,274"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>GUNNISON.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>E. N. GUNNISON.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a52443f4-bcad-4c00-95f5-330acb66b854">
+                <pc:Coords points="2171,243 2490,245 2490,276 2171,274"/>
+                <pc:Word id="word-7f620ae0-80e2-4d7f-b1e2-9c7c5f7556b0">
+                    <pc:Coords points="2171,244 2204,244 2204,274 2171,274"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>J.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-516d6272-7386-4968-b4a7-f1462cbc2ce9">
+                    <pc:Coords points="2222,244 2267,244 2267,274 2222,274"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>H.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0bb2a802-2584-43f0-b646-cd57bd7defb6">
+                    <pc:Coords points="2284,244 2490,245 2490,274 2284,273"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>FILLMORE.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>J. H. FILLMORE.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-27cacb39-3a0b-4c5d-9d8d-a972e16f9a7f">
+                <pc:Coords points="420,321 452,321 452,360 420,359"/>
+                <pc:Word id="word-83e0fbe4-1d97-4f4e-903a-654f6a703a3e">
+                    <pc:Coords points="420,321 452,321 452,360 420,359"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>4</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>4</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-add838ba-c36e-41bb-b43d-544ead222f95">
+                <pc:Coords points="418,365 453,365 453,408 418,408"/>
+                <pc:Word id="word-39a53418-d7f5-4baf-be5a-aa5e49d37cb9">
+                    <pc:Coords points="418,365 453,365 453,408 418,408"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>4</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>4</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-581102f8-fd8d-43d7-af28-a64fe0f3d965">
+                <pc:Coords points="337,434 2562,443 2562,493 337,484"/>
+                <pc:Word id="word-d0a2f971-2cb3-42c5-aede-976f5953ca8c">
+                    <pc:Coords points="337,444 371,444 371,475 337,475"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>1.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-8e6a7bc0-9af5-478b-802c-dd9cef81c798">
+                    <pc:Coords points="387,442 488,443 488,485 387,484"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ee7d1cea-fb36-4f72-b36e-c091ff719070">
+                    <pc:Coords points="499,443 566,443 566,477 499,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-810b0b66-7dbb-4870-af77-73fa2a1814d2">
+                    <pc:Coords points="576,443 764,443 765,485 576,484"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9219f55b-9ec9-402a-bbcf-b9904cf050b2">
+                    <pc:Coords points="772,443 899,444 899,477 772,477"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Christ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6adb77bd-dd15-4bd1-ba64-dabc8dcbdd20">
+                    <pc:Coords points="925,444 959,444 959,476 925,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>is</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-219c3510-c7f3-486b-97a7-40d8d24ae012">
+                    <pc:Coords points="989,444 1043,444 1043,477 989,477"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ris</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1b7ded8f-75c5-40cf-a0e6-4160e7711315">
+                    <pc:Coords points="1060,460 1075,460 1075,468 1060,468"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-de89e34b-dcb3-4638-8c10-a10b097c2120">
+                    <pc:Coords points="1091,452 1137,452 1137,476 1091,475"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>en</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d75b1697-aa84-4e22-8796-5681ed68dd37">
+                    <pc:Coords points="1147,444 1264,444 1264,477 1147,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>:-He</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-49899a61-8cbd-4c4c-a4aa-93843f8cf008">
+                    <pc:Coords points="1290,444 1378,445 1378,476 1290,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>who</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e7ece2ea-cfcd-419c-a7e6-812f0db16e48">
+                    <pc:Coords points="1395,444 1460,444 1460,476 1395,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>for</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7051c2cb-d886-4f30-b8c6-27a7f5ccb164">
+                    <pc:Coords points="1476,451 1546,451 1546,476 1476,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>our</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-34b4ef7a-b71c-405f-8a9c-eb517bd0293c">
+                    <pc:Coords points="1567,444 1648,445 1648,476 1567,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>sins</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-5da611b2-d82f-454c-97bf-e9a35d062884">
+                    <pc:Coords points="1661,450 1741,450 1741,476 1661,475"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>was</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-5746f649-73f4-4d6e-84d3-8a4a533d7d50">
+                    <pc:Coords points="1753,443 1851,443 1851,476 1753,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>slain</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0e88b6b7-1a7f-43d0-bc88-d257f8e01e3a">
+                    <pc:Coords points="1860,454 1869,454 1869,481 1860,481"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>;</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e45b4e9c-ef59-4e08-9d60-f44b4c4b439f">
+                    <pc:Coords points="1874,443 1987,443 1987,476 1874,476"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>From</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6ed4a169-d3c3-4e7f-b43e-15510205be26">
+                    <pc:Coords points="2000,443 2065,444 2065,475 2000,475"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-29a7f78a-14be-4463-a256-b6f8daba845c">
+                    <pc:Coords points="2078,443 2251,443 2251,483 2078,482"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bondage</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-219db890-c79b-4d21-8701-e8e0deec0c2e">
+                    <pc:Coords points="2269,442 2314,442 2314,475 2269,475"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f67a60d4-4224-474e-93bd-9f6e25d91c94">
+                    <pc:Coords points="2328,442 2389,442 2389,475 2328,475"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>his</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f1cdf656-227d-41f9-9d94-1f00f62879fa">
+                    <pc:Coords points="2403,443 2562,443 2562,483 2403,482"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>pris-on,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>1. Ring the joy-bells, Christ is ris - en :-He who for our sins was slain ; From the bondage of his pris-on,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-7c984e18-4a47-4bf0-bc34-b4d979f1fa51">
+                <pc:Coords points="336,478 2592,487 2592,537 336,528"/>
+                <pc:Word id="word-beecb20d-bf12-47a5-ac96-2ee3983860ae">
+                    <pc:Coords points="336,488 371,488 371,519 336,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>2.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-26299c31-36e9-4069-afc8-de25db85aa74">
+                    <pc:Coords points="385,487 485,488 485,529 385,528"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ca00ffdb-8c3c-4aa3-b280-99155c689e34">
+                    <pc:Coords points="497,487 562,487 562,520 497,520"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-fed7d774-69f7-4a08-b9e1-3ffe85b0737b">
+                    <pc:Coords points="569,487 765,488 765,528 569,528"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e59fcb81-6ec9-444f-b40b-39d0a8238ad4">
+                    <pc:Coords points="769,487 855,487 855,520 769,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>loud</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c45a56e3-a617-49d3-afc1-621b62ef28d6">
+                    <pc:Coords points="868,488 941,488 941,520 868,520"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-5b5f35ec-da7b-412b-8b79-14c774e180a6">
+                    <pc:Coords points="953,487 1110,487 1110,529 953,529"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gleeful,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a8323a1a-9dc1-4501-9ed3-26a28e51041d">
+                    <pc:Coords points="1117,487 1244,487 1244,521 1117,520"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Sound</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c83955d5-3dbd-4457-9ef1-ee6c0ca0506b">
+                    <pc:Coords points="1254,488 1354,488 1354,520 1254,520"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>their</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b39a09c0-5494-488d-81ac-30a5ee0526fd">
+                    <pc:Coords points="1366,490 1475,490 1475,520 1366,520"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>notes</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7cdc3818-f674-44ee-9279-d6eed49e2b60">
+                    <pc:Coords points="1487,487 1532,487 1532,520 1487,520"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c5ec0aeb-8ee7-44af-886e-f7a57251fdb6">
+                    <pc:Coords points="1541,488 1663,488 1663,528 1541,527"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>praise</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ca45ff69-a82e-437e-baef-526bb92406a8">
+                    <pc:Coords points="1675,487 1748,487 1748,520 1675,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0de11000-23f3-427d-9e02-52a2d15039c0">
+                    <pc:Coords points="1759,494 1893,495 1893,528 1759,528"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>peace;</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-962d91a9-8263-40f0-b27b-1f75d88bb37d">
+                    <pc:Coords points="1897,487 1969,487 1969,519 1897,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Fill</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-79584ca7-d122-4aad-bef5-c48f330a1741">
+                    <pc:Coords points="1978,488 2042,488 2042,520 1978,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-be0922df-2795-4d52-bd4b-61d7a05b4f57">
+                    <pc:Coords points="2052,487 2172,487 2172,520 2052,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>world</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-936a30b9-7485-4f11-ba60-8b395259a638">
+                    <pc:Coords points="2182,487 2277,488 2277,519 2182,519"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>with</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b84fe458-311b-45f8-b22e-ded7a5e11b16">
+                    <pc:Coords points="2291,486 2376,487 2376,527 2291,526"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>glad</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c6322882-4bad-43b1-a93d-c2f717ab15f1">
+                    <pc:Coords points="2389,487 2592,488 2592,525 2389,525"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vibration,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>2. Ring the joy-bells, loud and gleeful, Sound their notes of praise and peace; Fill the world with glad vibration,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-818b855d-b883-424c-a63f-d0579bf8d425">
+                <pc:Coords points="336,523 2579,532 2579,581 336,573"/>
+                <pc:Word id="word-4ceaa1b2-eefb-4ff3-b241-810c6a4825c8">
+                    <pc:Coords points="336,533 370,533 370,564 336,564"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>3.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3254f571-7e5d-4dca-bf20-9171a9c121c2">
+                    <pc:Coords points="385,531 484,532 484,573 385,573"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f1161d94-304a-4d7b-9519-6140a5507741">
+                    <pc:Coords points="496,532 561,532 561,565 496,564"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e305f0db-fb9a-4fa3-8e11-b5d85a8fcc81">
+                    <pc:Coords points="576,531 927,532 927,573 576,572"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,-saints</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d6387f85-6fa9-4f24-8b11-bb7cac97a128">
+                    <pc:Coords points="942,533 983,533 983,564 942,564"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-227cc6f3-ddd9-41b5-80d6-af458957b772">
+                    <pc:Coords points="999,532 1064,532 1064,573 999,573"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>glo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-013c5ac3-7761-4ed5-9a03-1c45288f1595">
+                    <pc:Coords points="1079,548 1095,548 1095,557 1079,557"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-bbd6b1ab-bc4f-4920-960e-e197a99127d8">
+                    <pc:Coords points="1110,541 1164,541 1164,573 1110,573"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ry,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-106c2e65-dba3-48a5-8385-bfdd4a3d99b2">
+                    <pc:Coords points="1204,533 1352,533 1352,566 1204,565"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>List-en</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6001f82d-82d8-48d9-80e5-fef117fe7dae">
+                    <pc:Coords points="1390,535 1430,535 1430,565 1390,565"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>to</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-fe9f09f9-28f2-45e0-89dd-1d3ebc863686">
+                    <pc:Coords points="1464,532 1530,532 1530,564 1464,564"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-749ae1c8-8242-4b86-9d91-57336b69a5b6">
+                    <pc:Coords points="1552,531 1642,532 1643,573 1553,573"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>glad</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-66b83a8a-819f-45cc-91f3-eae4a76fb10c">
+                    <pc:Coords points="1679,531 1860,531 1860,572 1679,571"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>re-frain;</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c85a4656-d72b-4fda-95ab-568c23024530">
+                    <pc:Coords points="1879,530 2046,531 2046,574 1879,573"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ringing</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-165951a4-0f92-4de7-a767-fae53dac9587">
+                    <pc:Coords points="2063,531 2171,531 2171,564 2063,563"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>forth</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1476f9c3-89e2-484d-a5ca-18bb5583a671">
+                    <pc:Coords points="2183,531 2248,532 2248,563 2183,563"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f6201a2b-42ef-44b9-9ca4-48e7d7077324">
+                    <pc:Coords points="2265,531 2390,531 2390,564 2265,564"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>old-en</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-8651526c-deb0-4f93-80ab-871cd7e61708">
+                    <pc:Coords points="2416,535 2476,535 2476,564 2416,564"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>sto</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-8353e85d-d73e-4b47-8616-f5293db183ff">
+                    <pc:Coords points="2492,548 2506,548 2506,556 2492,556"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-66646d20-bb56-4ddb-94c4-b733a5fcd1f2">
+                    <pc:Coords points="2521,539 2579,539 2579,571 2521,571"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ry,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>3. Ring the joy-bells,-saints in glo - ry, List-en to the glad re-frain; Ringing forth the old-en sto - ry,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-13db5eb9-9266-4e2a-ab60-32a022ac0294">
+                <pc:Coords points="1092,762 1281,763 1281,795 1092,795"/>
+                <pc:Word id="word-0655d209-ee19-4475-ae7d-bf9192b396b9">
+                    <pc:Coords points="1092,762 1281,763 1281,795 1092,795"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>REFRAIN.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>REFRAIN.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-2755850d-5ff6-4502-9665-17a35c0b3d22">
+                <pc:Coords points="361,992 1088,994 1088,1036 361,1035"/>
+                <pc:Word id="word-036495f8-2f10-4fea-95c0-91a85bd187a2">
+                    <pc:Coords points="361,995 507,995 507,1028 361,1028"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Breaks</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-450430da-d728-4b35-bd97-0376fbf4e1b5">
+                    <pc:Coords points="522,997 563,997 563,1027 522,1027"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>to</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a16cbd49-5aab-404b-a640-979dbc7e3ab2">
+                    <pc:Coords points="595,994 773,994 773,1035 595,1035"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>glad-den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9e60eb9c-13fe-4a02-a037-639da70b94ca">
+                    <pc:Coords points="789,994 896,994 896,1027 789,1026"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>earth</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6b7d2399-90e0-40ee-9337-9f605217d2d3">
+                    <pc:Coords points="919,1001 943,1001 943,1026 919,1026"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>a</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d938807f-6ba7-4022-96ee-22821f869f21">
+                    <pc:Coords points="956,1010 970,1010 970,1018 956,1018"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3ca28733-53d5-4b77-9fba-3368d643c294">
+                    <pc:Coords points="985,994 1088,994 1088,1035 985,1034"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gain.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Breaks to glad-den earth a - gain.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-705d0177-27a9-49b2-affd-90f796f853de">
+                <pc:Coords points="1172,989 2570,993 2570,1037 1172,1034"/>
+                <pc:Word id="word-378b49ea-d218-4a83-8e84-097f7bb66939">
+                    <pc:Coords points="1172,993 1272,993 1272,1034 1172,1034"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-60ac9948-fafa-48a9-8131-11e451345da9">
+                    <pc:Coords points="1288,993 1353,993 1353,1026 1288,1026"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e47d03a0-5805-4491-ab6d-81df5be54608">
+                    <pc:Coords points="1374,992 1566,993 1566,1034 1374,1033"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7fa556b0-7d47-4f71-b6ba-d8c993f75883">
+                    <pc:Coords points="1570,993 1654,993 1654,1034 1570,1034"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1175620d-8d75-42fc-9b62-18c73142ebb9">
+                    <pc:Coords points="1665,992 1729,993 1729,1025 1665,1025"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-69904b75-703f-4ef4-9114-e866a66cc543">
+                    <pc:Coords points="1742,992 1936,993 1936,1034 1742,1033"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-34f7c918-1481-458b-834b-30908752bfd9">
+                    <pc:Coords points="1941,992 2040,993 2040,1034 1941,1034"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-dc5b15b2-2849-459a-b5df-d829aa2d4445">
+                    <pc:Coords points="2051,992 2117,992 2117,1025 2051,1024"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6076a62a-bfb8-4a80-bf58-3e9969f82814">
+                    <pc:Coords points="2127,992 2234,992 2234,1031 2127,1031"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b9760b68-79f8-487b-9edf-83afdc718b69">
+                    <pc:Coords points="2239,992 2304,992 2304,1025 2239,1025"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a9e7c52e-49fb-49f1-9600-8e0d495b0b21">
+                    <pc:Coords points="2332,993 2400,993 2400,1034 2332,1034"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ea493b6f-ed22-4b3b-aa8e-0f632b6ec7a3">
+                    <pc:Coords points="2416,1009 2431,1009 2431,1017 2416,1017"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-24d920b8-2bdb-4eb8-aec7-eb7fb01f4ddd">
+                    <pc:Coords points="2462,992 2570,993 2570,1031 2462,1031"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the joy-bells, ring the joy-bells, Ring the bells, the joy - bells,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-927c4967-61e6-4994-846b-e24e05eff8ba">
+                <pc:Coords points="406,1037 1128,1038 1128,1072 406,1071"/>
+                <pc:Word id="word-48b4a24a-ec09-469c-92d2-ec7aa4c1ce91">
+                    <pc:Coords points="406,1039 481,1039 481,1071 406,1071"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Till</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-91a2e8ea-04b8-47de-9bb2-25757f933f7f">
+                    <pc:Coords points="511,1039 576,1039 576,1070 511,1070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b439707f-71a5-492e-9c30-4bf43deb7293">
+                    <pc:Coords points="592,1039 706,1039 706,1071 592,1071"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>strife</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a2a81553-3e2d-4cc2-9513-de33cd0d944b">
+                    <pc:Coords points="722,1038 768,1038 768,1071 722,1071"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-52dda10f-4476-4ff8-a807-8a53883f2402">
+                    <pc:Coords points="780,1038 887,1038 888,1070 780,1070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>earth</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1f00e4aa-6c69-4380-95f9-e175a0858411">
+                    <pc:Coords points="898,1038 995,1038 995,1070 898,1070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>shall</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a995ff93-522b-49b1-828d-316996429f1b">
+                    <pc:Coords points="1007,1044 1128,1045 1128,1072 1007,1071"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>cease.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Till the strife of earth shall cease.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-c67af8cc-0d96-418c-b6f2-af543c1bb911">
+                <pc:Coords points="400,1081 1090,1083 1090,1123 400,1122"/>
+                <pc:Word id="word-fffb27a4-4542-449c-ae20-502fe1b5ce07">
+                    <pc:Coords points="400,1083 497,1083 497,1115 400,1115"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>How</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-55b27b0f-4b3b-4ec9-9a59-dbe8ccdd74ad">
+                    <pc:Coords points="509,1083 576,1083 576,1115 509,1115"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0614e2d1-165a-452d-80ff-0738783d9d02">
+                    <pc:Coords points="592,1082 719,1082 719,1115 592,1115"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Christ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-c136545a-6b0f-440a-9637-c8818934e3f9">
+                    <pc:Coords points="730,1083 762,1083 762,1115 730,1115"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>is</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-197535a7-5f6b-4a0a-884f-1e4b47e05374">
+                    <pc:Coords points="777,1082 874,1083 874,1116 777,1116"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>born</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-02d4e498-8e41-44db-9d86-21ae1df777e7">
+                    <pc:Coords points="927,1090 951,1090 951,1115 927,1115"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>a</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d158f14f-9be7-43f5-afc2-9de352ad0650">
+                    <pc:Coords points="987,1083 1090,1083 1090,1123 987,1123"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gain.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>How the Christ is born a gain.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-aaf318a7-e651-4197-a36a-382425d6ed94">
+                <pc:Coords points="1187,1078 1484,1079 1484,1115 1187,1114"/>
+                <pc:Word id="word-4716f8f9-ac31-4486-ab0a-4462df9e052b">
+                    <pc:Coords points="1187,1078 1274,1078 1274,1115 1187,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-5d6a604d-310d-4706-a7fb-3ed4793f6faf">
+                    <pc:Coords points="1318,1079 1376,1079 1376,1109 1318,1109"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ffc9cb41-c3f0-466a-9e07-543c5b7ed34f">
+                    <pc:Coords points="1387,1079 1484,1079 1484,1114 1387,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the bells,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-914403d6-1266-4623-8abd-03bb211cf50a">
+                <pc:Coords points="1563,1079 1848,1079 1848,1115 1563,1114"/>
+                <pc:Word id="word-5dc0104d-1142-4102-bc63-b9d838aedd23">
+                    <pc:Coords points="1563,1079 1639,1079 1639,1115 1563,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e9e71039-a651-4d47-bccc-f2ac9276d873">
+                    <pc:Coords points="1682,1079 1740,1079 1740,1108 1682,1108"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-572ab858-7c60-4f6f-a6db-54992890d9bd">
+                    <pc:Coords points="1751,1079 1848,1079 1848,1114 1751,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring the bells,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-5f1e0c7a-f4f6-48fd-a451-986896853af6">
+                <pc:Coords points="1933,1078 2235,1079 2235,1115 1933,1114"/>
+                <pc:Word id="word-748ac289-4b61-49d3-9968-8334887e6cec">
+                    <pc:Coords points="1933,1079 2019,1079 2019,1115 1933,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d3b0c48b-c002-4b78-8c07-cf05e5c06f0b">
+                    <pc:Coords points="2068,1078 2127,1078 2127,1108 2068,1108"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-4e9e0a2b-6574-4d59-a3c4-9ed2286e8b7e">
+                    <pc:Coords points="2139,1079 2235,1079 2235,1114 2139,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the bells,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-591d53e8-2e57-46cf-b9d8-01b4c98e2397">
+                <pc:Coords points="2352,1079 2564,1079 2564,1115 2352,1115"/>
+                <pc:Word id="word-e455881d-599d-4a64-9986-1254ed04215d">
+                    <pc:Coords points="2352,1079 2409,1080 2409,1115 2352,1115"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7e433cde-fdde-464a-9a60-9c4ebd5b8bf7">
+                    <pc:Coords points="2433,1094 2446,1094 2446,1102 2433,1102"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-62fff64f-b5aa-4803-a355-140e15ec1b08">
+                    <pc:Coords points="2467,1079 2564,1079 2564,1114 2467,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>joy - bells,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-359006ce-d6fe-445f-9dc1-e026708b560c">
+                <pc:Coords points="1134,1257 1156,1257 1156,1291 1134,1291"/>
+                <pc:Word id="word-cdda28ba-eee3-40f4-be86-2fc3f4fb0dc7">
+                    <pc:Coords points="1134,1257 1156,1257 1156,1291 1134,1291"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>2</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>2</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-d3af1b5a-90db-433c-b8b5-21bdf09f880c">
+                <pc:Coords points="1175,1334 1271,1334 1271,1370 1175,1370"/>
+                <pc:Word id="word-2337da20-9775-40e4-bcb1-196c6e05628f">
+                    <pc:Coords points="1175,1334 1271,1334 1271,1370 1175,1370"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-fdb5b8de-2874-4f8d-b563-0343f7a4f403">
+                <pc:Coords points="1367,1336 1451,1336 1451,1370 1367,1370"/>
+                <pc:Word id="word-56b8d1c0-b741-4114-9045-37002052794b">
+                    <pc:Coords points="1367,1336 1451,1336 1451,1370 1367,1370"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a2b5fc52-dc85-415f-aa79-c5de5059a5fe">
+                <pc:Coords points="1553,1335 1636,1335 1636,1371 1553,1370"/>
+                <pc:Word id="word-6a6f8947-b33e-4b79-830c-f3ebbf428a8e">
+                    <pc:Coords points="1553,1335 1636,1335 1636,1371 1553,1370"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-1f6694c8-863e-4c4f-a6ef-d86af7e1dcc7">
+                <pc:Coords points="1736,1336 1820,1336 1820,1371 1736,1371"/>
+                <pc:Word id="word-5063c54f-136d-4373-a6dd-fe3af3c9cd11">
+                    <pc:Coords points="1736,1336 1820,1336 1820,1371 1736,1371"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-c26d4388-3377-420b-93ed-35ea4a826607">
+                <pc:Coords points="1922,1335 2017,1335 2017,1371 1922,1371"/>
+                <pc:Word id="word-48c929f7-bbdf-486a-a900-39410d61a3c9">
+                    <pc:Coords points="1922,1335 2017,1335 2017,1371 1922,1371"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-c91c34bb-a15f-47eb-a536-4cea4b3a58ef">
+                <pc:Coords points="2118,1337 2193,1337 2193,1371 2118,1370"/>
+                <pc:Word id="word-3eaf2430-e3a4-40ec-8142-a8100d4a0a42">
+                    <pc:Coords points="2118,1337 2193,1337 2193,1371 2118,1370"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-52a70d15-6238-468b-b782-2a94d00bd61f">
+                <pc:Coords points="2319,1334 2549,1335 2549,1370 2319,1370"/>
+                <pc:Word id="word-2984fb8b-135e-4c9e-89dc-65556f41ba36">
+                    <pc:Coords points="2319,1335 2375,1335 2375,1370 2319,1370"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-dcef15e9-517f-428e-b5f0-172960f942d5">
+                    <pc:Coords points="2408,1350 2422,1350 2422,1358 2408,1358"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-38d4f868-944f-4d71-bb94-9806a7669588">
+                    <pc:Coords points="2454,1335 2549,1335 2549,1369 2453,1369"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>joy - bells,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-0e3f95af-a4ff-4866-9b38-319167f30a63">
+                <pc:Coords points="1874,1392 2047,1392 2047,1426 1874,1426"/>
+                <pc:Word id="word-fb3b8686-50d7-4ddb-8d48-87d1d8fb12fd">
+                    <pc:Coords points="1874,1392 2047,1392 2047,1426 1874,1426"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>CHORUS.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>CHORUS.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-4b0d4d23-d809-4bcd-8963-4d9819e5cbf0">
+                <pc:Coords points="383,1602 1743,1602 1743,1644 383,1644"/>
+                <pc:Word id="word-1c13962a-89b2-4cf6-8b1e-263ed33e47ef">
+                    <pc:Coords points="383,1603 482,1603 482,1642 383,1642"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7ec86280-a30c-402c-bc89-9117e634d7a1">
+                    <pc:Coords points="497,1605 563,1605 563,1637 497,1637"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1245e95e-1a8a-4875-9f61-f261168a4c35">
+                    <pc:Coords points="576,1604 766,1604 766,1644 577,1644"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-972cf341-4c9f-42bb-9f36-e2bb399936ab">
+                    <pc:Coords points="772,1605 857,1605 858,1644 772,1644"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ac11a8da-17cc-4526-9941-33ab14d23a9e">
+                    <pc:Coords points="872,1604 938,1604 938,1636 872,1636"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e29eb7c3-92df-4b1a-857d-40a9d13de7b2">
+                    <pc:Coords points="963,1603 1153,1603 1153,1643 963,1643"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f2372efa-72d1-4ba4-b838-3f6435cfb28a">
+                    <pc:Coords points="1159,1603 1258,1603 1258,1643 1159,1643"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7786779e-85e9-4ee1-8d64-570e1ea3b9ca">
+                    <pc:Coords points="1267,1603 1331,1603 1331,1635 1267,1635"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-fde51f56-81d7-4eda-857c-dd99608dc9d8">
+                    <pc:Coords points="1342,1602 1449,1602 1449,1640 1342,1640"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-440977bb-5de4-4018-9407-e4b1674f75d3">
+                    <pc:Coords points="1454,1602 1519,1602 1519,1635 1454,1635"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-05dee3e0-2e2f-4672-a71f-0e87918cc38b">
+                    <pc:Coords points="1533,1603 1600,1603 1600,1642 1533,1641"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-284bcd61-fc15-4f17-a6cd-f5aec16bcc5d">
+                    <pc:Coords points="1610,1619 1625,1619 1625,1628 1610,1628"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-27c69bed-f917-433c-accc-7036791c6f1f">
+                    <pc:Coords points="1636,1603 1743,1603 1743,1636 1636,1636"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the joy-bells, ring the joy-bells, Ring the bells, the joy - bells.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-ae4cd660-54fa-40dd-89b8-b628bb3798d0">
+                <pc:Coords points="1858,1602 2580,1602 2580,1644 1858,1644"/>
+                <pc:Word id="word-191d3b4e-ee20-4d25-a5ef-2f72a66bb04c">
+                    <pc:Coords points="1858,1602 1958,1602 1958,1643 1858,1643"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b1780a23-f94c-4c17-a108-4662c3fbcaf4">
+                    <pc:Coords points="1967,1603 2032,1603 2032,1636 1967,1636"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-70a5b7e0-063b-483f-b26b-6f6e7a32d9b1">
+                    <pc:Coords points="2043,1603 2232,1603 2232,1644 2043,1644"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy-bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-48776bbe-baa9-4858-8a5f-ff37f14a24e8">
+                    <pc:Coords points="2239,1603 2365,1603 2365,1636 2239,1636"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Christ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-54bf6327-3f60-419d-bf14-dbd6a5e2ad72">
+                    <pc:Coords points="2375,1604 2407,1604 2407,1637 2375,1637"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>is</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d1065545-a5bd-46e8-b2cd-a656282ab08f">
+                    <pc:Coords points="2422,1604 2476,1604 2476,1636 2422,1636"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ris</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-99423a7f-645d-4f88-9daf-854c40879654">
+                    <pc:Coords points="2488,1619 2503,1619 2503,1629 2488,1629"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a8e213a4-1144-4f81-a2c5-314a7f8c21ff">
+                    <pc:Coords points="2518,1607 2580,1607 2580,1636 2518,1636"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>en</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the joy-bells, Christ is ris - en</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-444a6516-b436-4aa2-b7bf-13ef7dee6879">
+                <pc:Coords points="378,1644 1736,1644 1736,1681 378,1681"/>
+                <pc:Word id="word-477fe24e-92a4-4f28-aead-c25b7a93b49e">
+                    <pc:Coords points="378,1645 466,1645 466,1681 378,1681"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-4aa50072-2fdf-48ee-b0a4-4f2c9ff82762">
+                    <pc:Coords points="532,1647 590,1647 590,1676 532,1676"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7c77ddde-5537-4c3d-9cc8-37faf14643c0">
+                    <pc:Coords points="602,1646 698,1646 698,1680 602,1680"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-400c9081-ad61-4240-bd52-f8d7f24cedb9">
+                    <pc:Coords points="773,1646 847,1646 847,1681 773,1681"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-12fbdba9-b63a-4d7e-9c9e-146130a75fb0">
+                    <pc:Coords points="901,1645 958,1645 958,1675 901,1675"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7d3a9449-c903-49f4-ab98-bf272a0e5f10">
+                    <pc:Coords points="970,1645 1066,1645 1066,1680 970,1680"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f632f7f1-8c03-4059-8196-102e0a214335">
+                    <pc:Coords points="1145,1645 1230,1645 1230,1680 1145,1680"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-065cbe5c-28b1-49e1-8e7c-d1b613786fec">
+                    <pc:Coords points="1274,1644 1333,1644 1333,1674 1274,1674"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>the</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9f38d119-b54d-4de2-b3f6-859fe436af75">
+                    <pc:Coords points="1344,1644 1439,1644 1439,1679 1344,1679"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b54b549f-25ca-4cd3-9b4a-82054e1c6445">
+                    <pc:Coords points="1540,1645 1594,1645 1594,1679 1540,1679"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-2c19d4fd-abe4-49a4-b284-169299ccd9db">
+                    <pc:Coords points="1612,1659 1626,1659 1626,1667 1612,1667"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0942d186-a028-438f-ad9c-fe349f0dace0">
+                    <pc:Coords points="1642,1645 1736,1645 1736,1675 1642,1675"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring the bells, ring the bells, Ring the bells, joy - bells.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-e7163257-3e8b-4e32-b8d5-1073fa3242b9">
+                <pc:Coords points="382,1902 477,1902 477,1938 382,1938"/>
+                <pc:Word id="word-e1d016b8-5ff1-4727-a020-e3ac18dc7b14">
+                    <pc:Coords points="382,1902 477,1902 477,1938 382,1938"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-8d194359-5633-4794-baf8-d1b844c874d0">
+                <pc:Coords points="578,1903 663,1903 663,1937 578,1937"/>
+                <pc:Word id="word-5cdb5f15-c9aa-4f9d-aa0f-fa8621bee9d9">
+                    <pc:Coords points="578,1903 663,1903 663,1937 578,1937"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-c768774e-b20d-441b-81f6-27ff6c0ff412">
+                <pc:Coords points="763,1902 846,1902 846,1937 763,1937"/>
+                <pc:Word id="word-bde22133-33e3-4892-9c58-f4aae6914ff2">
+                    <pc:Coords points="763,1902 846,1902 846,1937 763,1937"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a436a17d-da71-458f-ba0d-fe5adf9270ab">
+                <pc:Coords points="959,1902 1042,1902 1042,1937 959,1937"/>
+                <pc:Word id="word-9386e393-37b7-4188-b8f5-45235bac2fb6">
+                    <pc:Coords points="959,1902 1042,1902 1042,1937 959,1937"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-3286fc21-1355-405b-b6d1-f43e3ab8bef9">
+                <pc:Coords points="1144,1899 1240,1899 1240,1936 1144,1936"/>
+                <pc:Word id="word-76ca7d8b-6096-467b-bf04-60c5043b27c0">
+                    <pc:Coords points="1144,1899 1240,1899 1240,1936 1144,1936"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ring,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ring,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-b959c787-83a0-49e3-96ac-fade9cd5270c">
+                <pc:Coords points="1306,1900 1381,1900 1381,1935 1306,1936"/>
+                <pc:Word id="word-de53601e-9f78-4a53-bc3f-d86b91010117">
+                    <pc:Coords points="1306,1900 1381,1900 1381,1935 1306,1936"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ring</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ring</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-5e4a138e-c1ab-475f-be1e-05413a716934">
+                <pc:Coords points="1508,1900 1737,1900 1738,1935 1508,1935"/>
+                <pc:Word id="word-e5166814-5548-4216-b90e-417c3b4627d2">
+                    <pc:Coords points="1508,1900 1565,1900 1565,1935 1508,1935"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>joy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-217c3297-6fe4-4182-9ce5-5b8602f40c7b">
+                    <pc:Coords points="1597,1914 1611,1914 1611,1922 1597,1922"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-bf511bfd-c768-4f5e-b684-e59d738bdab9">
+                    <pc:Coords points="1643,1900 1737,1900 1738,1929 1643,1930"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bells.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>joy - bells.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-8538e70d-23a2-492e-8b81-a976099121e9">
+                <pc:Coords points="398,1945 840,1944 840,1973 398,1973"/>
+                <pc:Word id="word-7d99e686-514c-4a12-88b0-79ef1736732d">
+                    <pc:Coords points="398,1947 522,1946 522,1973 398,1973"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Copyright,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9cf78ec3-9775-48ed-927d-30a9f4796c5e">
+                    <pc:Coords points="534,1946 589,1946 589,1970 534,1970"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>1890,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a0625367-7a89-4a75-a1e4-202837a3c604">
+                    <pc:Coords points="602,1945 630,1945 630,1970 602,1971"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>by</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ecc193e1-aa33-41f3-9dbe-68c4bee2a78b">
+                    <pc:Coords points="642,1945 761,1945 761,1966 643,1966"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>FILLMORE</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f54a2ef9-46d8-4c04-8fb0-f30f5c972eab">
+                    <pc:Coords points="773,1945 840,1945 840,1966 773,1966"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>BROS.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Copyright, 1890, by FILLMORE BROS.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.50.0</pc:Creator>
+        <pc:Created>2023-05-03T15:38:28.502535</pc:Created>
+        <pc:LastChange>2023-05-03T15:38:28.502535</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="google-ocr-testbed/images/1889-Songge-EMU-0027.jpg" imageWidth="3009" imageHeight="2441">
+        <pc:TextRegion id="region-2af0640a-2e2d-43e9-8b04-e15dd0f505b7">
+            <pc:Coords points="83,58 2916,74 2936,2369 82,2372"/>
+            <pc:TextLine id="line-acbe33e4-8a62-4a46-abbb-e55ccc5879ee">
+                <pc:Coords points="851,275 2104,281 2105,332 851,326"/>
+                <pc:Word id="word-d8cf6e32-58c1-4529-9abf-bc4a1989c5d0">
+                    <pc:Coords points="851,278 1130,279 1130,327 851,326"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>BRIGHT</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-add6cbeb-45f0-4607-aac6-2ad00784af8a">
+                    <pc:Coords points="1161,279 1463,281 1464,329 1161,328"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>GOLDEN</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9f67d373-44eb-4ff7-a86e-baaed05ad0a6">
+                    <pc:Coords points="1497,280 1683,280 1683,327 1497,326"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>CITY.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f35068db-7c09-4872-a88a-444900ac2618">
+                    <pc:Coords points="1744,279 2104,281 2105,328 1744,326"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Concluded.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>BRIGHT GOLDEN CITY. Concluded.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-e282d54a-e630-4f29-a26d-b3e19d36c475">
+                <pc:Coords points="640,368 808,369 808,402 640,401"/>
+                <pc:Word id="word-a2935fbd-b73f-4d01-bd54-a0cbc49d2cab">
+                    <pc:Coords points="640,368 808,369 808,402 640,401"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>CHORUS.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>CHORUS.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-22ddec5e-6a42-4818-87c3-f1325b4af414">
+                <pc:Coords points="610,641 655,641 655,670 610,670"/>
+                <pc:Word id="word-292ae332-e0eb-4a54-85ce-1263614bdd2f">
+                    <pc:Coords points="610,641 655,641 655,670 610,670"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>In</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>In</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a5b2dcee-dfab-4841-b7a7-fb8dae80ca4c">
+                <pc:Coords points="721,640 802,640 802,669 721,669"/>
+                <pc:Word id="word-349fa413-0cc0-489a-8eef-d64b78b4e29c">
+                    <pc:Coords points="721,640 802,640 802,669 721,669"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>that</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>that</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-1a0ff951-9ffc-4fbe-8519-5314f391de11">
+                <pc:Coords points="884,641 972,641 972,669 884,669"/>
+                <pc:Word id="word-9cd824af-7bee-43d5-b76d-629088ab26bc">
+                    <pc:Coords points="884,641 972,641 972,669 884,669"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>beau</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>beau</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-9bec2dfb-1cd7-400b-86fe-cacdd7d7fb55">
+                <pc:Coords points="1093,640 1122,640 1122,668 1093,668"/>
+                <pc:Word id="word-7f6c6d3a-3865-4fb1-ba0a-ec58b28f6cb2">
+                    <pc:Coords points="1093,640 1122,640 1122,668 1093,668"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ti</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ti</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-83ee215d-5bcd-44f7-93e0-4f48713aa085">
+                <pc:Coords points="1209,640 1261,640 1261,669 1209,669"/>
+                <pc:Word id="word-6dac589a-8490-40f9-a9af-bb3823f94aef">
+                    <pc:Coords points="1209,640 1261,640 1261,669 1209,669"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ful</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ful</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-fa2ace6e-35a3-4c6e-ac92-40ef20a51f9e">
+                <pc:Coords points="1360,639 1410,639 1410,668 1360,668"/>
+                <pc:Word id="word-8c1fa2ad-1b5e-4437-b87c-212134e3ba54">
+                    <pc:Coords points="1360,639 1410,639 1410,668 1360,668"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>cit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>cit</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-5c87ab98-f060-44a6-a3b4-20547e26ca63">
+                <pc:Coords points="1483,644 1520,645 1520,675 1483,675"/>
+                <pc:Word id="word-2da3dfdf-6b9c-4739-9cf5-56aeb25b64eb">
+                    <pc:Coords points="1483,644 1520,645 1520,675 1483,675"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>y,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>y,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-4806f4ff-2398-4382-981b-ddea8469f2c8">
+                <pc:Coords points="1662,637 1707,638 1708,667 1662,667"/>
+                <pc:Word id="word-e335d648-0548-4cf7-8c81-4f6763999cb1">
+                    <pc:Coords points="1662,637 1707,638 1708,667 1662,667"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>In</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>In</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-8f0b5796-de82-4fbc-b1f4-04a68e33c459">
+                <pc:Coords points="1773,638 1855,638 1855,668 1773,668"/>
+                <pc:Word id="word-a7d18ce7-9f07-4c27-b5d1-bc074a70a254">
+                    <pc:Coords points="1773,638 1855,638 1855,668 1773,668"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>that</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>that</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-f3de8ae1-05f0-489e-8250-8e06c1750bc2">
+                <pc:Coords points="1930,636 2050,636 2050,674 1931,673"/>
+                <pc:Word id="word-de271397-c8d1-4258-8778-1b7f4719a0b0">
+                    <pc:Coords points="1930,636 2050,636 2050,674 1931,673"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bright</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>bright</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-186d1e08-8574-406e-aaa1-b760ff73df31">
+                <pc:Coords points="2126,638 2305,638 2305,673 2126,673"/>
+                <pc:Word id="word-95d1f573-04df-4c9d-ac05-e3173bc38a3a">
+                    <pc:Coords points="2126,638 2206,638 2206,673 2126,673"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gold</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-62bc77af-8b80-4187-a4ba-4c8edb26b780">
+                    <pc:Coords points="2234,652 2246,652 2246,660 2234,659"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a6eb680e-e59e-4311-aa66-ee24fd15e143">
+                    <pc:Coords points="2262,645 2305,645 2305,667 2262,667"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>en</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>gold - en</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-248adf75-f429-40c2-88af-3f846a6d5efe">
+                <pc:Coords points="2374,638 2424,638 2424,667 2374,667"/>
+                <pc:Word id="word-c0220dda-fcb3-4d87-99d5-403238af7be3">
+                    <pc:Coords points="2374,638 2424,638 2424,667 2374,667"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>cit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>cit</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-77b50809-8589-4fc7-9fe1-59eba28dbd66">
+                <pc:Coords points="2508,644 2543,644 2543,674 2508,674"/>
+                <pc:Word id="word-2a05efd8-4ff6-4a15-a6fb-9cee39dfea4d">
+                    <pc:Coords points="2508,644 2543,644 2543,674 2508,674"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>y,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>y,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-eb47630c-2d36-44f2-b921-7fd62143bfd9">
+                <pc:Coords points="610,1287 674,1287 674,1317 610,1316"/>
+                <pc:Word id="word-c5962bed-9985-4974-9dd4-ab13ccd39591">
+                    <pc:Coords points="610,1287 674,1287 674,1317 610,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>We</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>We</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-cb12e1f6-c1b4-40fd-a486-d8655d364a01">
+                <pc:Coords points="717,1286 1370,1287 1371,1317 717,1316"/>
+                <pc:Word id="word-398495a7-7100-403c-a9f1-a99a237ea211">
+                    <pc:Coords points="717,1287 808,1287 808,1316 717,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>shall</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-dd97088a-e5ba-428b-b0c4-e6021e959af0">
+                    <pc:Coords points="858,1289 952,1289 952,1317 858,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>meet</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f8e77e43-ada0-4371-b05d-59f84f324270">
+                    <pc:Coords points="1017,1294 1085,1294 1085,1317 1017,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>one</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-2148930e-c1ca-4f51-89d7-69b97c878a80">
+                    <pc:Coords points="1122,1294 1144,1294 1144,1316 1122,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>a</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-fc593758-d9cd-4846-9f31-ea4b5fdaedaa">
+                    <pc:Coords points="1154,1304 1167,1304 1167,1311 1154,1311"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-52a48979-2318-446f-995b-c294e2b3c9b0">
+                    <pc:Coords points="1177,1287 1265,1287 1265,1317 1177,1317"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>noth</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e74e8c9b-88b3-4323-85df-d93bb0f771ad">
+                    <pc:Coords points="1293,1303 1306,1303 1306,1311 1293,1311"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e064f68c-367a-4388-8a3c-9dfada32241e">
+                    <pc:Coords points="1333,1294 1370,1294 1371,1316 1333,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>shall meet one a - noth - er</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-8b805406-a195-44e0-b60a-1acb29d2b643">
+                <pc:Coords points="1469,1294 1491,1294 1492,1316 1469,1316"/>
+                <pc:Word id="word-33d348ae-8c92-49f8-848e-5d1b5a733114">
+                    <pc:Coords points="1469,1294 1491,1294 1492,1316 1469,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>a</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>a</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-bea8a20b-d78c-494d-8bd1-d64fb8658c14">
+                <pc:Coords points="1619,1288 1718,1288 1718,1321 1619,1321"/>
+                <pc:Word id="word-09c4b25b-00f3-42c2-9e08-58c37f01f731">
+                    <pc:Coords points="1619,1288 1718,1288 1718,1321 1619,1321"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gain;</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>gain;</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-4ab279b1-7e27-4060-991c-cf6af153ed23">
+                <pc:Coords points="1827,1285 1871,1286 1871,1315 1827,1315"/>
+                <pc:Word id="word-4df043d2-87e6-4e80-9add-8f2f86b3e9ab">
+                    <pc:Coords points="1827,1285 1871,1286 1871,1315 1827,1315"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>In</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>In</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a3d1f856-f54c-4e72-9685-f294609bc21d">
+                <pc:Coords points="1937,1285 2019,1286 2019,1315 1938,1314"/>
+                <pc:Word id="word-1553e68f-433c-4987-acb7-824bda4ea912">
+                    <pc:Coords points="1937,1285 2019,1286 2019,1315 1938,1314"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>that</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>that</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-edf6ced4-172a-4ec6-b822-2a640844fb4e">
+                <pc:Coords points="2068,1286 2155,1286 2155,1314 2068,1314"/>
+                <pc:Word id="word-f02d5ab0-b5b6-46f5-809e-8113b103a2c9">
+                    <pc:Coords points="2068,1286 2155,1286 2155,1314 2068,1314"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>beau</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>beau</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-19b67c9c-d5d3-494d-a05a-5e194a06c2dd">
+                <pc:Coords points="2236,1286 2264,1286 2264,1313 2236,1313"/>
+                <pc:Word id="word-451af42a-3336-4d3d-9025-00d67812b5b6">
+                    <pc:Coords points="2236,1286 2264,1286 2264,1313 2236,1313"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ti</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ti</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-3278d6f8-5576-4e25-8ffa-b57baaf4c1fa">
+                <pc:Coords points="2313,1285 2366,1285 2366,1314 2313,1314"/>
+                <pc:Word id="word-af5340f0-d87e-4f99-8333-5a132fb196d8">
+                    <pc:Coords points="2313,1285 2366,1285 2366,1314 2313,1314"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ful</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ful</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a3db5090-f9e1-4f1c-996d-f965900ff4aa">
+                <pc:Coords points="2445,1285 2495,1285 2495,1314 2445,1313"/>
+                <pc:Word id="word-fcff4307-c921-4a1a-8c13-fae74a7b757a">
+                    <pc:Coords points="2445,1285 2495,1285 2495,1314 2445,1313"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>cit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>cit</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-16a7f7d0-efd8-470c-b31e-4af95a38189a">
+                <pc:Coords points="2548,1290 2584,1290 2585,1320 2548,1320"/>
+                <pc:Word id="word-2b358024-55a8-4161-aa01-2f56e5a8d3cd">
+                    <pc:Coords points="2548,1290 2584,1290 2585,1320 2548,1320"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>y,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>y,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-da3f4f1d-9e6f-4b9d-ba43-650b553935d8">
+                <pc:Coords points="1690,1352 1816,1352 1816,1386 1690,1385"/>
+                <pc:Word id="word-b29edff2-42d0-474c-9e71-4208cc3aec12">
+                    <pc:Coords points="1690,1352 1816,1352 1816,1386 1690,1385"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>a-gain,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>a-gain,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-ae249d0a-c55f-499c-a3ff-283f6ba2a7a8">
+                <pc:Coords points="625,1975 667,1975 667,2004 625,2004"/>
+                <pc:Word id="word-d88fff62-0b50-4d4b-b482-d434bc76741e">
+                    <pc:Coords points="625,1975 667,1975 667,2004 625,2004"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>In</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>In</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-86e3a5c3-632b-423d-b5d1-068be746aa07">
+                <pc:Coords points="734,1977 817,1977 817,2006 734,2006"/>
+                <pc:Word id="word-11d01af0-5f04-4891-8e24-8f34fb661d40">
+                    <pc:Coords points="734,1977 817,1977 817,2006 734,2006"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>that</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>that</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a420795e-7ad0-45b9-b6fa-9ad084b90e3f">
+                <pc:Coords points="849,1976 1351,1976 1351,2012 849,2012"/>
+                <pc:Word id="word-6ab45be2-48e5-442d-bd18-e98e307ff85e">
+                    <pc:Coords points="849,1976 966,1976 966,2011 849,2011"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bright</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7b260a21-57d3-40d4-8b9a-c0738f7300e2">
+                    <pc:Coords points="1015,1976 1169,1976 1169,2012 1015,2012"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gold - en</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-720a1f09-c21c-4da8-902e-1814d511aa79">
+                    <pc:Coords points="1215,1977 1264,1977 1265,2004 1215,2004"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>cit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3f2b3f28-0bf2-466d-922a-f0fc3ed945d4">
+                    <pc:Coords points="1317,1982 1351,1982 1351,2011 1317,2011"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>y,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>bright gold - en cit y,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-e323e4d3-8f42-4fee-ac02-a612088125c7">
+                <pc:Coords points="1430,1975 1530,1975 1530,2004 1430,2004"/>
+                <pc:Word id="word-6d97207a-59a9-4945-a7ae-c9a3a92339f8">
+                    <pc:Coords points="1430,1975 1530,1975 1530,2004 1430,2004"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>With</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>With</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-c078451e-e111-448d-a073-9a42e2301706">
+                <pc:Coords points="1611,1972 1657,1972 1657,2004 1611,2004"/>
+                <pc:Word id="word-8c6297df-a3ef-4183-86ca-19540ee0a752">
+                    <pc:Coords points="1611,1972 1657,1972 1657,2004 1611,2004"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Je</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Je</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-58abf0ba-be01-4207-b0ca-a556089b7958">
+                <pc:Coords points="1756,1979 1817,1979 1817,2004 1756,2004"/>
+                <pc:Word id="word-955ac9eb-f4d4-4b8c-aa9e-9713730489f2">
+                    <pc:Coords points="1756,1979 1817,1979 1817,2004 1756,2004"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>sus</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>sus</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-da5eeb27-882a-4a6e-a35b-43d139b62a60">
+                <pc:Coords points="1882,1974 1936,1974 1936,2003 1882,2003"/>
+                <pc:Word id="word-0bf82747-7bb4-4a75-a51e-41961de35219">
+                    <pc:Coords points="1882,1974 1936,1974 1936,2003 1882,2003"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>for</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>for</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-fcef5b0f-c07d-4182-b4f0-6fb30f4d7791">
+                <pc:Coords points="2017,1980 2060,1980 2060,2002 2018,2002"/>
+                <pc:Word id="word-0e7a6b15-8d58-42b8-889d-3f50cc094888">
+                    <pc:Coords points="2017,1980 2060,1980 2060,2002 2018,2002"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ev</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ev</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-49cc14eb-72c6-46fc-bba0-c8c9ab5e59bd">
+                <pc:Coords points="2139,1981 2176,1981 2176,2003 2139,2003"/>
+                <pc:Word id="word-5eafc6da-1da3-4595-9c48-6fa708863854">
+                    <pc:Coords points="2139,1981 2176,1981 2176,2003 2139,2003"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>er</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-d36b83e2-fcba-48b4-838e-a6d28507d34c">
+                <pc:Coords points="2261,1975 2349,1975 2349,2004 2261,2004"/>
+                <pc:Word id="word-b98829be-1cde-4ffb-8620-08b6271ec04e">
+                    <pc:Coords points="2261,1975 2349,1975 2349,2004 2261,2004"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>we'll</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>we'll</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-d9466457-46df-4e74-9da1-759b01a8d421">
+                <pc:Coords points="2428,1975 2535,1975 2535,2009 2428,2009"/>
+                <pc:Word id="word-53d2fd71-59d0-4c47-bdb4-d4d3e2a7f4cb">
+                    <pc:Coords points="2428,1975 2535,1975 2535,2009 2428,2009"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>reign.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>reign.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>

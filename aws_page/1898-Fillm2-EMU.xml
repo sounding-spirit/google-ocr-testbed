@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.50.0</pc:Creator>
+        <pc:Created>2023-05-03T15:38:48.607440</pc:Created>
+        <pc:LastChange>2023-05-03T15:38:48.607440</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="google-ocr-testbed/images/1898-Fillm2-EMU-0004.jpg" imageWidth="2381" imageHeight="3315">
+        <pc:TextRegion id="region-95290722-8967-4da4-b827-291d0ce1cabd">
+            <pc:Coords points="9,12 2378,37 2381,3283 35,3315"/>
+            <pc:TextLine id="line-93c12e88-db4e-4573-96f1-4d00df1185b6">
+                <pc:Coords points="955,918 1091,918 1091,979 955,979"/>
+                <pc:Word id="word-6cac7683-8e18-4822-b0e9-0672b68bcfab">
+                    <pc:Coords points="955,918 1091,918 1091,979 955,979"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>291</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>291</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-543b5a0d-0b53-4fe9-a5f3-cb5959b2e41e">
+                <pc:Coords points="1084,1399 1309,1398 1309,1490 1084,1490"/>
+                <pc:Word id="word-a1fc0621-e453-470e-b9e3-aac0fccda799">
+                    <pc:Coords points="1084,1399 1309,1398 1309,1490 1084,1490"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>1898</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>1898</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-29b7b5b8-e98d-45f8-9c57-b1f21a26bd3b">
+                <pc:Coords points="1115,1486 1385,1486 1386,1583 1116,1583"/>
+                <pc:Word id="word-86dfd112-0bb0-483f-adc6-130c2e65f946">
+                    <pc:Coords points="1115,1486 1385,1486 1386,1583 1116,1583"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Fill.B</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Fill.B</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>
