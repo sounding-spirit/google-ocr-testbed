@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.50.0</pc:Creator>
+        <pc:Created>2023-05-03T15:37:38.245960</pc:Created>
+        <pc:LastChange>2023-05-03T15:37:38.245960</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="google-ocr-testbed/images/1874-Contri-EMU-0008.jpg" imageWidth="2325" imageHeight="2897">
+        <pc:TextRegion id="region-8181b85e-efe8-416a-a2c0-30794e7aa29c">
+            <pc:Coords points="3,9 2325,44 2325,2840 16,2861"/>
+            <pc:TextLine id="line-3bb9beb7-bdcb-47fd-8a4a-d5328c7405e6">
+                <pc:Coords points="936,1933 1579,1933 1579,1992 936,1993"/>
+                <pc:Word id="word-070244ae-820d-4f90-811c-32f7c94dafd9">
+                    <pc:Coords points="936,1936 1146,1936 1146,1993 936,1993"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gaiberty</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7fe1548e-7c04-4e9c-8e0a-deee3ce7aa51">
+                    <pc:Coords points="1247,1933 1380,1933 1380,1984 1247,1984"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>world</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6565d4ae-2c26-4a14-8dc1-f050469d5401">
+                    <pc:Coords points="1400,1933 1579,1933 1579,1986 1400,1986"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>NOTO</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>gaiberty world NOTO</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-9cd488a5-f146-431b-b88e-bf377f98c7b5">
+                <pc:Coords points="1022,2008 1518,2008 1518,2054 1022,2055"/>
+                <pc:Word id="word-5135c4a0-4d27-4309-a723-45d87368c93e">
+                    <pc:Coords points="1022,2008 1111,2008 1111,2054 1022,2055"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>tilles</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6f82ecb1-8697-4c70-a9a4-0cc20c7c2fe4">
+                    <pc:Coords points="1459,2011 1518,2011 1518,2054 1459,2054"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>THE</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>tilles THE</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-83e31fc4-68b0-46e7-94b7-62028c9a5699">
+                <pc:Coords points="1410,2141 1502,2140 1502,2190 1410,2191"/>
+                <pc:Word id="word-bd301588-fc28-4c93-a53f-9142188b2f4b">
+                    <pc:Coords points="1410,2141 1502,2140 1502,2190 1410,2191"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hurt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>hurt</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-6a8f9617-b159-4493-a487-fd90748bab22">
+                <pc:Coords points="1263,2213 1359,2213 1359,2255 1263,2256"/>
+                <pc:Word id="word-03fe3642-c886-4f97-be47-bfd47c333d77">
+                    <pc:Coords points="1263,2213 1359,2213 1359,2255 1263,2256"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>day</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>day</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-fb192757-b38f-4d5f-928e-27aa2539dadd">
+                <pc:Coords points="1434,2280 1519,2279 1519,2327 1434,2328"/>
+                <pc:Word id="word-3717ebe1-a9d2-4e9f-bce9-06bcf64f8152">
+                    <pc:Coords points="1434,2280 1519,2279 1519,2327 1434,2328"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>0W</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>0W</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-50107042-1986-4f96-8995-b87da33c6831">
+                <pc:Coords points="1251,2346 1576,2344 1576,2395 1251,2397"/>
+                <pc:Word id="word-aa7b9f73-7994-4a04-8879-2a25c34eff3a">
+                    <pc:Coords points="1251,2353 1353,2352 1353,2394 1251,2394"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>AND</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-4d58044c-a505-4c2f-85d4-dc6149c5dd68">
+                    <pc:Coords points="1459,2345 1576,2344 1576,2395 1459,2396"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>98901</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>AND 98901</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>

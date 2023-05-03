@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.50.0</pc:Creator>
+        <pc:Created>2023-05-03T15:37:22.683692</pc:Created>
+        <pc:LastChange>2023-05-03T15:37:22.683692</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="google-ocr-testbed/images/1850-Missou-EMU-0220.jpg" imageWidth="3661" imageHeight="2349">
+        <pc:TextRegion id="region-976d6fb9-c0e1-4484-af18-26e01a09afae">
+            <pc:Coords points="95,81 3613,61 3608,2269 105,2285"/>
+            <pc:TextLine id="line-a2114044-b7e9-421b-a0dc-9cc14700c95d">
+                <pc:Coords points="325,219 435,219 435,281 325,282"/>
+                <pc:Word id="word-347770cc-5777-427f-9eb2-eb3ee646790c">
+                    <pc:Coords points="325,219 435,219 435,281 325,282"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>194</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>194</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-99cdbeb9-e501-487a-88b9-ccadbb1beafc">
+                <pc:Coords points="1447,217 2353,212 2353,281 1448,286"/>
+                <pc:Word id="word-aacb92b1-a01e-4425-87a0-c5b165e5197b">
+                    <pc:Coords points="1447,217 1951,215 1952,279 1448,282"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>HEAVENLY</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0112fb45-18fe-4eb4-b44d-33cfa48b67c9">
+                    <pc:Coords points="2026,217 2353,215 2353,281 2026,283"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>VISION.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>HEAVENLY VISION.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-cadad782-2fa6-4fd8-868d-f8d81ae0e946">
+                <pc:Coords points="2821,379 2862,379 2862,396 2821,396"/>
+                <pc:Word id="word-9acf2c53-23ba-4d62-bedf-978d63401408">
+                    <pc:Coords points="2821,379 2862,379 2862,396 2821,396"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ASES</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ASES</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-03316924-50b4-4541-9f73-42f36c7463ff">
+                <pc:Coords points="559,870 814,869 814,907 559,908"/>
+                <pc:Word id="word-cb753bea-0384-4e3f-9e19-4950190d3538">
+                    <pc:Coords points="559,870 577,870 578,902 559,902"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>I</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1b25f309-9e90-4428-a088-b6282da2c13a">
+                    <pc:Coords points="593,871 720,870 720,908 594,908"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>beheld,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-cef0b573-3f47-4180-8d4a-0504c349423d">
+                    <pc:Coords points="749,871 814,871 814,902 750,902"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>I beheld, and</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a6a7fd84-c5ab-4598-b350-a9d40fc2648c">
+                <pc:Coords points="962,871 996,871 997,902 963,902"/>
+                <pc:Word id="word-57127c03-3931-44ca-8600-e823610e866c">
+                    <pc:Coords points="962,871 996,871 997,902 963,902"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>lo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>lo</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-598cc1d0-54aa-4e07-a2c9-56ec16581325">
+                <pc:Coords points="1359,879 1381,879 1381,901 1359,901"/>
+                <pc:Word id="word-82fa805e-56b4-425c-a3b3-70c991d9ef5d">
+                    <pc:Coords points="1359,879 1381,879 1381,901 1359,901"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>a</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>a</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-d477c465-d11f-4aff-be6c-7602e1262d33">
+                <pc:Coords points="1483,873 1693,872 1694,911 1483,912"/>
+                <pc:Word id="word-1dddaa7a-3d1b-4c43-aba1-3cb61bdb93ea">
+                    <pc:Coords points="1483,876 1575,875 1575,911 1483,912"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>great</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7ba94511-505a-46bf-91d8-52cb46972a57">
+                    <pc:Coords points="1588,872 1659,872 1659,902 1588,902"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mul</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0887d246-5bfd-47c3-8aad-154b39aa4f24">
+                    <pc:Coords points="1680,887 1694,887 1694,894 1680,895"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>great mul -</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-063385ef-c374-46d0-af0f-af478ffbafd4">
+                <pc:Coords points="1719,875 1743,875 1743,902 1719,902"/>
+                <pc:Word id="word-5630a498-4467-4ebd-9f2c-39119b694180">
+                    <pc:Coords points="1719,875 1743,875 1743,902 1719,902"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ti</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ti</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-cf6225da-3a51-4be6-8ad3-9ddaba4aa8a1">
+                <pc:Coords points="1844,873 2553,869 2553,909 1844,913"/>
+                <pc:Word id="word-a993a1be-b9ad-4fbc-88ce-b689e25545f3">
+                    <pc:Coords points="1844,873 1920,873 1920,903 1844,903"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>tude</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b7710acd-5b85-411f-baec-95736dffe9af">
+                    <pc:Coords points="1937,872 2045,872 2045,903 1937,904"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>which</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9db576da-1821-43a6-9c64-3fd4f01312ab">
+                    <pc:Coords points="2089,882 2132,882 2132,903 2089,903"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>110</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-960edbc1-f23b-4530-b4c1-a2313ebb14e0">
+                    <pc:Coords points="2146,882 2225,882 2225,902 2146,903"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>man</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-8542f999-6575-40e2-97aa-991b957cec89">
+                    <pc:Coords points="2248,872 2344,872 2344,903 2248,903"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>could</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-1eb66f1e-467c-432f-adb7-892cda520a13">
+                    <pc:Coords points="2401,873 2553,872 2553,909 2401,910"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>number,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>tude which 110 man could number,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-9791a8bd-618b-4cfe-8869-12c79fc3691e">
+                <pc:Coords points="3143,870 3391,869 3391,901 3143,902"/>
+                <pc:Word id="word-bfcce33a-67a6-4ef0-b020-9ff99795ce02">
+                    <pc:Coords points="3143,870 3339,869 3339,901 3143,902"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0782f0c4-f2c2-49b2-a8ff-094da19627d4">
+                    <pc:Coords points="3354,870 3391,870 3391,900 3354,900"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-81d8edf4-6a23-4664-8c18-c20ea02b04a0">
+                <pc:Coords points="2566,1110 3474,1106 3474,1145 2566,1150"/>
+                <pc:Word id="word-e96cca19-a4db-4945-a6eb-96d4bb1b3598">
+                    <pc:Coords points="2566,1110 2761,1109 2761,1141 2566,1142"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3c7609e1-3712-4a1e-a4d3-b7f72cef0231">
+                    <pc:Coords points="2777,1112 2815,1111 2815,1141 2777,1141"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f9f35353-5c8e-476e-81ed-2caee2f298ef">
+                    <pc:Coords points="2823,1111 3000,1110 3000,1141 2823,1142"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-845c01c3-dffc-4963-8cba-bde918dcdbe6">
+                    <pc:Coords points="3014,1110 3078,1110 3078,1140 3014,1141"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-60504791-ac46-4046-87b5-cd61d8f09a3b">
+                    <pc:Coords points="3100,1113 3156,1112 3156,1140 3100,1140"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f2ac2d65-8883-434a-828d-eebc6b3eb048">
+                    <pc:Coords points="3171,1110 3267,1110 3267,1139 3171,1139"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-33397624-1fa0-44b4-b782-ca2c0da6451c">
+                    <pc:Coords points="3282,1109 3474,1108 3474,1145 3282,1146"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of thousands and ten times thousands,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-913563cd-028b-4166-8b52-4db924685a5a">
+                <pc:Coords points="718,1559 2362,1551 2362,1599 718,1607"/>
+                <pc:Word id="word-cbda3a77-8d81-4097-b2e4-59aaaca4a349">
+                    <pc:Coords points="718,1559 919,1558 919,1591 718,1592"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7878be15-fce3-4b36-b17b-2b07c452037e">
+                    <pc:Coords points="933,1560 970,1560 970,1591 933,1591"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-dc897188-e058-469a-92b7-e89d53a918d4">
+                    <pc:Coords points="980,1560 1173,1559 1173,1598 980,1599"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d0903274-8a45-48b4-86a5-e1e5d91d7858">
+                    <pc:Coords points="1187,1562 1253,1562 1253,1593 1187,1593"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-03cacd00-5a6b-4c33-b9f3-4b9e4b715b02">
+                    <pc:Coords points="1265,1565 1323,1565 1323,1593 1265,1593"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-644f96a8-a083-4da1-b9c7-2276e0c591bf">
+                    <pc:Coords points="1337,1563 1435,1563 1435,1593 1337,1593"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-f1178703-6958-4620-a6f6-b88c8c32e2f3">
+                    <pc:Coords points="1448,1561 1637,1560 1637,1600 1448,1601"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-322838f1-5f01-4806-9b1e-449777fec8bb">
+                    <pc:Coords points="1653,1563 1848,1562 1848,1594 1653,1595"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b5d9d8cb-87ed-4ff2-a403-f4bc9161dec8">
+                    <pc:Coords points="1865,1564 1901,1563 1901,1594 1865,1594"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-e1ea0df6-0f00-4a0a-b042-58daf9aaf3db">
+                    <pc:Coords points="1912,1562 2103,1561 2103,1600 1912,1601"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-622f7e42-8c57-4400-9651-f39755f1ca5f">
+                    <pc:Coords points="2118,1563 2181,1563 2181,1594 2118,1594"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-a0c70942-62ac-4e5f-8ab8-66ee5bdbaaa9">
+                    <pc:Coords points="2196,1566 2252,1566 2252,1594 2196,1594"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ea93ce56-c6f2-45a7-96bb-c16dc0ec66d5">
+                    <pc:Coords points="2268,1565 2362,1564 2362,1594 2268,1594"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of thousands, and ten times thousands, Thousands of thousands, and ten times</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-a5e558f8-57c8-44c7-8799-35109ef1a5a0">
+                <pc:Coords points="2460,1562 2652,1561 2652,1600 2460,1601"/>
+                <pc:Word id="word-667a2e5d-ceda-4039-9dda-82e0503997ee">
+                    <pc:Coords points="2460,1562 2652,1561 2652,1600 2460,1601"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>thousands,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-5573d4a4-9e2a-4773-8027-e4a38cf1543d">
+                <pc:Coords points="3129,1560 3380,1559 3380,1591 3129,1592"/>
+                <pc:Word id="word-eff5ad9a-2f19-467a-b5c2-4fe134f57add">
+                    <pc:Coords points="3129,1560 3324,1559 3324,1591 3129,1592"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-56dd78e3-4629-42da-9edf-f6f9baf20666">
+                    <pc:Coords points="3341,1561 3380,1561 3380,1590 3341,1590"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-73cb2ad9-07a1-479f-be2f-e19467f309a0">
+                <pc:Coords points="496,1797 2164,1789 2164,1839 496,1847"/>
+                <pc:Word id="word-77a89e33-154f-4914-90ea-9ca598c0e5df">
+                    <pc:Coords points="496,1797 688,1796 688,1834 496,1834"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-fb4bf186-7919-4a69-82cf-f7ac672adb8e">
+                    <pc:Coords points="702,1798 767,1798 767,1829 702,1829"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9a1148a8-8276-4e21-a1a8-29e2c6ba3d1a">
+                    <pc:Coords points="782,1803 839,1803 839,1829 782,1830"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-995a45df-6852-45ce-b950-8bffa042415a">
+                    <pc:Coords points="880,1800 977,1800 977,1830 880,1830"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0d17c7b9-02c2-4a72-bb2c-daaaa4c39066">
+                    <pc:Coords points="991,1798 1183,1797 1183,1837 991,1838"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-afd5dae2-c1d5-4a60-abb6-f58f228fbf14">
+                    <pc:Coords points="1197,1799 1395,1798 1396,1832 1197,1833"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6f189505-6ae3-4984-8a59-471c8c3c6060">
+                    <pc:Coords points="1410,1801 1447,1801 1447,1832 1410,1833"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9e4a2ec6-1d40-4dcd-bd7d-75c8afd0a903">
+                    <pc:Coords points="1458,1801 1649,1800 1649,1838 1458,1839"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d9c47c06-766b-4625-8dc5-4e0473d3cc82">
+                    <pc:Coords points="1664,1802 1728,1802 1728,1833 1664,1833"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-2468ebc7-5c20-4e56-947d-2dfb08dc7c74">
+                    <pc:Coords points="1743,1807 1800,1806 1800,1833 1743,1833"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-953266d7-b810-4c04-bd6c-ef6cc5684ab2">
+                    <pc:Coords points="1820,1804 1916,1803 1916,1834 1820,1834"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-854644a7-ec38-4c43-b147-141cc9d214a5">
+                    <pc:Coords points="1973,1802 2164,1801 2164,1839 1973,1840"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>thousands, and ten times thousands, Thousands of thousands, and ten times thousands,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-e9726554-f957-498d-affd-57a29fa666e5">
+                <pc:Coords points="2303,1802 2834,1800 2834,1838 2303,1841"/>
+                <pc:Word id="word-e9460f86-ff0c-47f2-8ccf-b1b23e14f985">
+                    <pc:Coords points="2303,1802 2503,1801 2503,1833 2303,1834"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b956b8a5-e6ed-4a99-a5b6-80af7a0fa13c">
+                    <pc:Coords points="2518,1802 2555,1802 2555,1833 2518,1833"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-bbecf4c1-a656-4441-b16b-8f62ff49b809">
+                    <pc:Coords points="2565,1802 2755,1801 2755,1839 2565,1840"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-7fedce78-0dad-4cfb-8d41-0a51b7902789">
+                    <pc:Coords points="2769,1801 2834,1801 2834,1832 2769,1832"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of thousands, and</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-423b3340-2d25-4fe1-a46a-2739b2525ee3">
+                <pc:Coords points="2891,1804 2947,1803 2947,1831 2891,1831"/>
+                <pc:Word id="word-3833c7a2-dca5-49c2-8b69-8aa31fa713ee">
+                    <pc:Coords points="2891,1804 2947,1803 2947,1831 2891,1831"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ten</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-2d286faf-324d-401e-9362-3b8ec8ff032f">
+                <pc:Coords points="2990,1802 3087,1801 3087,1831 2990,1832"/>
+                <pc:Word id="word-c0aa1e9a-9698-4500-9c85-e70fad433802">
+                    <pc:Coords points="2990,1802 3087,1801 3087,1831 2990,1832"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>times</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-cfcd6a45-65dd-4059-9754-6a74609323d9">
+                <pc:Coords points="3156,1798 3345,1797 3345,1834 3156,1835"/>
+                <pc:Word id="word-9a1034e2-54eb-4f7e-a5a4-eef9d06877f9">
+                    <pc:Coords points="3156,1798 3345,1797 3345,1834 3156,1835"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>thousands,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-975892bd-e460-48d2-8f54-69e16af44241">
+                <pc:Coords points="2484,1926 2524,1925 2524,1942 2484,1942"/>
+                <pc:Word id="word-3a820616-2b1a-41fa-8a73-4fd71ac8bf23">
+                    <pc:Coords points="2484,1926 2524,1925 2524,1942 2484,1942"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>5358</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>5358</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-3c715c7f-a7e6-4ec9-9e8a-3edacd5c8b46">
+                <pc:Coords points="456,2034 2353,2025 2353,2078 456,2087"/>
+                <pc:Word id="word-eb1e3ac0-18c1-4498-9d90-0f8baaaf30ff">
+                    <pc:Coords points="456,2034 652,2033 652,2067 456,2068"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-efa6b377-ca8b-41f2-8a6b-e834458d7294">
+                    <pc:Coords points="669,2038 706,2038 707,2068 669,2068"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-9f1e6995-fb33-40cb-a646-f64edc35a777">
+                    <pc:Coords points="717,2036 907,2035 907,2074 717,2075"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-213b586b-680a-479d-802d-bf83238679fd">
+                    <pc:Coords points="921,2037 986,2037 986,2069 921,2069"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3682b097-1926-44e7-896f-9d7cb7db65c1">
+                    <pc:Coords points="1001,2042 1057,2042 1058,2069 1001,2070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-ed7ccf3c-f126-4e5c-970c-f34431d3d4dc">
+                    <pc:Coords points="1074,2041 1170,2040 1170,2069 1074,2070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-0757d218-7b89-4fee-a8f2-347aa5262fdb">
+                    <pc:Coords points="1185,2040 1375,2039 1375,2077 1185,2077"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-b4bc7904-6d1e-4db7-8764-cf0608fabc98">
+                    <pc:Coords points="1391,2040 1589,2039 1589,2072 1391,2073"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3f362749-a88b-42e8-a9d4-d5ad4c62a4e0">
+                    <pc:Coords points="1602,2043 1640,2043 1640,2073 1602,2073"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-92a6dc07-b8e8-4293-bf35-d37a64a0b16f">
+                    <pc:Coords points="1649,2041 1831,2040 1831,2072 1649,2073"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-3955fd02-3665-4367-a981-47f3658c216c">
+                    <pc:Coords points="1845,2042 1909,2042 1909,2072 1845,2072"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-46c88573-31b7-4cc7-9006-5a2b7ff2c424">
+                    <pc:Coords points="1936,2046 1994,2046 1994,2072 1936,2072"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-6a610fa6-60e7-4c9f-a98b-071ad857c07b">
+                    <pc:Coords points="2052,2044 2148,2044 2148,2073 2052,2073"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-13b509cf-a593-4f30-9f69-4563be51ac5d">
+                    <pc:Coords points="2161,2041 2353,2040 2353,2078 2161,2079"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of thousands, and ten times thousands, Thousands of thousands and ten times thousands,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-1fbf31f9-4858-4436-a652-456bb695f9e7">
+                <pc:Coords points="2571,2040 3046,2038 3046,2075 2571,2078"/>
+                <pc:Word id="word-473728e4-62a0-4e32-9878-a0282e7aef8c">
+                    <pc:Coords points="2571,2040 2767,2039 2767,2071 2571,2072"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Thousands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-d5ea59cc-6d99-4a49-a292-4afca89c4acb">
+                    <pc:Coords points="2782,2040 2818,2040 2818,2071 2781,2072"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>of</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-21dadd07-8957-4bf8-b8f6-b93f576b76a1">
+                    <pc:Coords points="2856,2039 3046,2038 3046,2075 2856,2076"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>thousands,</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Thousands of thousands,</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="line-0fb3838c-4b6c-4590-8983-edf2e3334b37">
+                <pc:Coords points="3105,2040 3392,2039 3392,2070 3105,2071"/>
+                <pc:Word id="word-e988b0d4-0856-4622-a2b1-6bdd10dbc155">
+                    <pc:Coords points="3105,2040 3168,2040 3168,2069 3105,2069"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>and</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-12860a8e-c0cc-4b16-9895-fea93b38a004">
+                    <pc:Coords points="3196,2042 3250,2042 3250,2070 3196,2070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word-8f088a3f-c046-43bf-a6d6-bec2391aeae0">
+                    <pc:Coords points="3296,2041 3392,2041 3392,2070 3295,2070"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>times</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>and ten times</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>
