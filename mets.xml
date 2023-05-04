@@ -1132,9 +1132,6 @@
       <mets:file ID="page_f18xx-Missio-EMU-0042" MIMETYPE="application/vnd.prima.page+xml">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="page/18xx-Missio-EMU-0042.xml"/>
       </mets:file>
-      <mets:file ID="Storyo-1876-0237" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="page/Storyo-1876-0237.xml"/>
-      </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="aws_page">
       <mets:file ID="aws_page_f1850-Baptis-EMU-0204" MIMETYPE="application/vnd.prima.page+xml">
@@ -2633,9 +2630,6 @@
         <mets:fptr FILEID="images_f18xx-Missio-EMU-0042"/>
         <mets:fptr FILEID="page_f18xx-Missio-EMU-0042"/>
         <mets:fptr FILEID="aws_page_f18xx-Missio-EMU-0042"/>
-      </mets:div>
-      <mets:div TYPE="page" ID="Storyo-1876-0237">
-        <mets:fptr FILEID="Storyo-1876-0237"/>
       </mets:div>
     </mets:div>
   </mets:structMap>
